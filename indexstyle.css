@@ -1,0 +1,55 @@
+body {
+    margin: 20px;
+    background-color: navy;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white
+}
+
+h1 {
+    letter-spacing: 3px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+#span1 {
+    color: pink;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#span1:hover {
+    font-size: larger;
+}
+
+#chart1 {
+    width: 300px;
+    height: 280px;
+    border: white 15px;
+    border-radius: 10px;
+    background-color: pink;
+    margin: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: block;
+}
+
+#chart2 {
+    width: 300px;
+    height: 345px;
+    border: white 15px;
+    border-radius: 10px;
+    background-color: orange;
+    margin: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: block;
+}
+
+#chart3 {
+    width: 300px;
+    height: 235px;
+    border: white 15px;
+    border-radius: 10px;
+    background-color: pink;
+    margin: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: block;
+}
