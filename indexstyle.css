@@ -1,0 +1,53 @@
+body {
+    margin: 20px;
+    background-color: navy;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white
+}
+
+h1 {
+    letter-spacing: 4.5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+#span1 {
+    color: yellow;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+h1:hover {
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#chart1 {
+    width: 30px;
+    border: white 15px;
+    border-radius: 10px;
+    background-color: pink;
+    margin: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 8px;
+}
+
+#chart2 {
+    width: 30px;
+    border: white 15px;
+    border-radius: 10px;
+    background-color: orange;
+    margin: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 8px;
+}
+
+#chart3 {
+    width: 30px;
+    border: white 15px;
+    border-radius: 10px;
+    background-color: pink;
+    margin: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 8px;
+}
