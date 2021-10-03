@@ -22,7 +22,7 @@ h1:hover {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-div {
+.div {
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 1em;
@@ -41,4 +41,25 @@ div {
     margin: 15px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 8px;
+}
+
+.div1.h3 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.div2.h3 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.div3.h3 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+#link {
+    color: white;
+    background-color: red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
