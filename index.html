@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+<head>
+
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.17.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.17.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
+    <link rel="stylesheet" href="indexstyle.css">
+
+</head>
+
+<body>
+
+    <h1>Data<span id="span1">Science</span> / Week 1</h1>
+    <br>
+    <div>
+        Hey <span id="babes">babes</span> welcome to my data <a
+            href="https://www.youtube.com/watch?v=lVec30ugvUQ">ting</a>
+    </div>
+
+    <section>
+        <div class="chart" id="chart1">
+            <script>
+                var myChart1 = "chart1_covidUKRegions.json";
+                vegaEmbed('#chart1', myChart1);
+            </script>
+        </div>
+
+        <div class="chart" id="chart2">
+            <script>
+                var myChart2 = "chart2_ukProductivity.json";
+                vegaEmbed('#chart2', myChart2);
+            </script>
+        </div>
+
+        <div class="chart" id="chart3">
+            <script>
+                var myChart3 = "chartENV16.json";
+                vegaEmbed('#chart3', myChart3);
+            </script>
+        </div>
+    </section>
+
+</body>
+
+</html>
