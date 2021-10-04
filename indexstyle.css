@@ -1,65 +1,36 @@
 body {
     margin: 20px;
     background-color: navy;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Courier New', Courier, monospace;
     color: white
 }
 
 h1 {
     letter-spacing: 4.5px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
 }
 
 #span1 {
-    color: yellow;
+    color: lightgreen;
     font-weight: bold;
-    text-decoration: underline;
 }
 
-h1:hover {
-    font-size: 50px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
-
-.div {
+#headerdiv {
     text-align: center;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 1em;
-}
-
-#babes {
-    color: red;
-    font-style: italic;
 }
 
 .chart {
     width: 30%;
-    border: white 15px;
+    border: lightgreen solid 5px;
     border-radius: 10px;
-    background-color: pink;
-    margin: 15px;
+    background-color: white;
+    margin: 8px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 8px;
 }
 
-.div1.h3 {
+h3 {
     text-align: center;
     text-decoration: underline;
 }
 
-.div2.h3 {
-    text-align: center;
-    text-decoration: underline;
-}
-
-.div3.h3 {
-    text-align: center;
-    text-decoration: underline;
-}
-
-#link {
-    color: white;
-    background-color: red;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
