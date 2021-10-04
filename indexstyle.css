@@ -3,6 +3,7 @@ body {
     background-color: navy;
     font-family: 'Courier New', Courier, monospace;
     color: white;
+    border: white solid 5px;
 }
 
 h1 {
@@ -30,6 +31,11 @@ h1 {
 }
 
 h3 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+#footerh2 {
     text-align: center;
     text-decoration: underline;
 }
