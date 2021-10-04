@@ -34,3 +34,7 @@ h3 {
     text-decoration: underline;
 }
 
+section {
+    justify-content: center;
+}
+
