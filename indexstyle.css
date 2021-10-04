@@ -45,8 +45,11 @@ h3 {
 }
 
 footer {
-    width: 920;
+    width: 900;
     background-color: lightgreen;
+    color: black;
+    font-size: 1.2em;
+    outline: black solid 5px;
 }
 
 
