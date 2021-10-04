@@ -1,8 +1,9 @@
 body {
-    margin: 20px;
+    margin: auto;
     background-color: navy;
     font-family: 'Courier New', Courier, monospace;
-    color: white
+    color: white;
+    max-width: 450px;
 }
 
 h1 {
@@ -24,7 +25,7 @@ h1 {
     border: lightgreen solid 5px;
     border-radius: 10px;
     background-color: white;
-    margin: 8px;
+    margin: auto;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 8px;
 }
@@ -34,7 +35,4 @@ h3 {
     text-decoration: underline;
 }
 
-section {
-    justify-content: center;
-}
 
