@@ -46,11 +46,14 @@ h3 {
 
 footer {
     width: 880;
-    background-color: lightgreen;
-    color: black;
-    font-size: 1.2em;
-    outline: black solid 5px;
+    color: white;
+    font-size: 1em;
     margin-bottom: 0px;
+}
+
+#week2title {
+    text-align: center;
+    text-decoration: white underline;
 }
 
 
