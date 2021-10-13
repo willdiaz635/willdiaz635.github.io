@@ -16,6 +16,10 @@ h1 {
     font-weight: bold;
 }
 
+#bristolspan {
+    color: red;
+}
+
 #headerdiv {
     text-align: center;
 }
@@ -49,6 +53,11 @@ footer {
     color: white;
     font-size: 1em;
     margin-bottom: 0px;
+}
+
+#week1title {
+    text-align: center;
+    text-decoration: white underline;
 }
 
 #week2title {
