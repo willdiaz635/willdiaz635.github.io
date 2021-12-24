@@ -50,7 +50,7 @@
             }
         },
         "color": {
-            "field": "newPeopleVaccinatedThirdInjectionByVaccinationDate",
+            "field": "areaName",
             "type": "nominal",
             "scale": {
                 "scheme": "set1"
