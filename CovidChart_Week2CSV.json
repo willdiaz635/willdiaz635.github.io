@@ -1,0 +1,65 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": {
+        "text": "Third Covid Vaccination Injection",
+        "subtitle": "People with the booster jab by date",
+        "subtitleFontStyle": "italic",
+        "subtitleFontSize": 10,
+        "anchor": "start",
+        "color": "black"
+    },
+    "data": {
+        "url": "https://raw.githubusercontent.com/willdiaz635/willdiaz635.github.io/main/ltla_2021-12-24%20(1).csv",
+        "format": {
+            "type": "csv"
+        }
+    },
+    "transform": [
+        {
+            "filter": {
+                "field": "areaName",
+                "oneOf": [
+                    "Bristol, City of",
+                    "East Dunbartonshire",
+                    "Croydon"
+                ]
+            }
+        }
+    ],
+    "height": 300,
+    "width": 310,
+    "mark": {
+        "type": "line",
+        "point": false
+    },
+    "encoding": {
+        "x": {
+            "field": "date",
+            "type": "temporal",
+            "title": null,
+            "axis": {
+                "grid": false
+            }
+        },
+        "y": {
+            "field": "newPeopleVaccinatedThirdInjectionByVaccinationDate",
+            "type": "quantitative",
+            "title": null,
+            "axis": {
+                "grid": false
+            }
+        },
+        "color": {
+            "field": "newPeopleVaccinatedThirdInjectionByVaccinationDate",
+            "type": "nominal",
+            "scale": {
+                "scheme": "set1"
+            },
+            "title": null,
+            "legend": {
+                "orient": "top-left",
+                "fillColor": "#FcFdFd"
+            }
+        }
+    }
+}
