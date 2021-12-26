@@ -1,0 +1,36 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "IBM price",
+    "title": {
+        "text": "IBM Intraday Price",
+        "subtitle": "IBM stock price in dollars every 5 minutes - alphasites api",
+        "subtitleFontStyle": "italic",
+        "subtitleFontSize": 10,
+        "anchor": "start"
+    },
+    "data": {
+        "url": "https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=IBM&interval=5min&apikey=MRZDE13I3HX5ZM7F",
+        "format": {
+            "type": "json"
+        }
+    },
+    "height": 300,
+    "width": 300,
+    "mark": {
+        "type": "line",
+        "point": false,
+        "color": "aliceblue"
+    },
+    "encoding": {
+        "x": {
+            "field": "Time Series (5min)",
+            "title": "Date",
+            "type": "temporal"
+        },
+        "y": {
+            "field": "4. close",
+            "title": "Price (£)",
+            "type": "quantitative"
+        }
+    }
+}
