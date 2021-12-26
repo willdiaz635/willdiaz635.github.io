@@ -25,13 +25,13 @@ h1 {
 }
 
 .chart {
-    width: 400px;
     border: lightgreen solid 5px;
     border-radius: 10px;
     margin: 10px;
     background-color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 8px;
+    display: inline;
 }
 
 h3 {
@@ -64,5 +64,3 @@ footer {
     text-align: center;
     text-decoration: white underline;
 }
-
-
