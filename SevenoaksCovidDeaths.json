@@ -1,0 +1,43 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Cumulative Deaths from Covid-19 in Sevenoaks by Publish Date",
+    "title": {
+        "text": "Cumulative Deaths from Covid-19 in Sevenoaks by Publish Date",
+        "subtitle": "Chart produced from CSV file (the final observation is falsely added)",
+        "subtitleFontStyle": "italic",
+        "subtitleFontSize": 10,
+        "anchor": "start",
+        "color": "black"
+    },
+    "data": {
+        "url": "https://raw.githubusercontent.com/willdiaz635/willdiaz635.github.io/main/SevenoaksCovidDeaths.csv"
+    },
+    "height": 300,
+    "width": 300,
+    "mark": {
+        "type": "line",
+        "point": false,
+        "interpolate": "monotone",
+        "color": "#051077"
+    },
+    "encoding": {
+        "x": {
+            "field": "date",
+            "type": "temporal",
+            "axis": {
+                "title": "date",
+                "grid": false,
+                "labelSeparation": 50,
+                "ticks": false
+            }
+        },
+        "y": {
+            "field": "cumDeaths28DaysByPublishDate",
+            "type": "quantitative",
+            "title": "cumDeaths28DaysByPublishDate",
+            "axis": {
+                "grid": false
+            }
+        }
+    }
+}
