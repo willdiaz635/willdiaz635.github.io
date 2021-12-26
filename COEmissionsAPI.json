@@ -9,7 +9,10 @@
         "color": "black"
     },
     "data": {
-        "url": "https://api.v2.emissions-api.org/api/v2/carbonmonoxide/statistics.json?country=GB&interval=week&end=2021-01-01&offset=0"
+        "url": "https://api.v2.emissions-api.org/api/v2/carbonmonoxide/statistics.json?country=GB&interval=week&end=2021-11-01",
+        "format": {
+            "type": "json"
+        }
     },
     "mark": {
         "type": "line",
