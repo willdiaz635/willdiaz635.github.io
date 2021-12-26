@@ -1,0 +1,46 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": {
+        "text": "Value of five currencies relative to the Euro",
+        "subtitle": "exchangeratesapi.io",
+        "subtitleFontStyle": "italic",
+        "subtitleFontSize": 10,
+        "anchor": "start",
+        "color": "black"
+    },
+    "data": {
+        "url": "http://api.exchangeratesapi.io/v1/latest?access_key=777184c68d61e039171c5f128b3548dd&symbols=USD,AUD,CAD,PLN,MXN&format=1"
+    },
+    "mark": {
+        "type": "bar",
+        "point": false,
+        "clip": true,
+        "color": "blue"
+    },
+    "height": 300,
+    "width": 300,
+    "encoding": {
+        "x": {
+            "field": "time.interval_start",
+            "title": null,
+            "axis": {
+                "grid": false
+            },
+            "type": "temporal"
+        },
+        "y": {
+            "field": "value.average",
+            "type": "quantitative",
+            "title": null,
+            "axis": {
+                "grid": false
+            },
+            "scale": {
+                "domain": [
+                    0.01,
+                    0.05
+                ]
+            }
+        }
+    }
+}
