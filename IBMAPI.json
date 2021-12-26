@@ -2,14 +2,14 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "description": "IBM price",
     "title": {
-        "text": "IBM Intraday Price",
-        "subtitle": "IBM stock price in dollars every 5 minutes - alphasites api",
+        "text": "IBM Intraday Stock Trading Volume - 23 December 2021",
+        "subtitle": "Trading Volume of IBM's stock - Alphavantage API",
         "subtitleFontStyle": "italic",
         "subtitleFontSize": 10,
         "anchor": "start"
     },
     "data": {
-        "url": "https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=IBM&interval=5min&apikey=MRZDE13I3HX5ZM7F",
+        "url": "https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=IBM&interval=5min&apikey=MRZDE13I3HX5ZM7F&datatype=csv",
         "format": {
             "type": "json"
         }
@@ -23,12 +23,12 @@
     },
     "encoding": {
         "x": {
-            "field": "Time Series (5min)",
+            "field": "timestamp",
             "title": "Date",
             "type": "temporal"
         },
         "y": {
-            "field": "4. close",
+            "field": "volume",
             "title": "Price (£)",
             "type": "quantitative"
         }
