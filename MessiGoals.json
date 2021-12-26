@@ -1,0 +1,103 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Lionel Messi's La Liga Goal Tally 2004-2021",
+    "data": {
+        "values": [
+            {
+                "Season": "04/05",
+                "Goal count": 1
+            },
+            {
+                "Season": "05/06",
+                "Goal count": 6
+            },
+            {
+                "Season": "06/07",
+                "Goal count": 14
+            },
+            {
+                "Season": "07/08",
+                "Goal count": 10
+            },
+            {
+                "Season": "08/09",
+                "Goal count": 23
+            },
+            {
+                "Season": "09/10",
+                "Goal count": 34
+            },
+            {
+                "Season": "10/11",
+                "Goal count": 31
+            },
+            {
+                "Season": "11/12",
+                "Goal count": 50
+            },
+            {
+                "Season": "12/13",
+                "Goal count": 46
+            },
+            {
+                "Season": "13/14",
+                "Goal count": 28
+            },
+            {
+                "Season": "14/15",
+                "Goal count": 43
+            },
+            {
+                "Season": "15/16",
+                "Goal count": 26
+            },
+            {
+                "Season": "16/17",
+                "Goal count": 37
+            },
+            {
+                "Season": "17/18",
+                "Goal count": 34
+            },
+            {
+                "Season": "18/19",
+                "Goal count": 36
+            },
+            {
+                "Season": "19/20",
+                "Goal count": 25
+            },
+            {
+                "Season": "20/21",
+                "Goal count": 30
+            }
+        ]
+    },
+    "title": {
+        "text": "Lionel Messi's La Liga Goal Tally 2004-2021",
+        "subtitle": "Manually constructed",
+        "subtitleFontStyle": "italic",
+        "subtitleFontSize": 10,
+        "anchor": "start",
+        "color": "black"
+    },
+    "height": 300,
+    "width": 300,
+    "mark": {
+        "type": "bar",
+        "width": 10
+    },
+    "encoding": {
+        "x": {
+            "field": "Season",
+            "type": "nominal",
+            "axis": {
+                "labelAngle": 90
+            }
+        },
+        "y": {
+            "field": "Goal count",
+            "type": "quantitative"
+        }
+    }
+}
