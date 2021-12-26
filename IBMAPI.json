@@ -19,17 +19,17 @@
     "mark": {
         "type": "line",
         "point": false,
-        "color": "aliceblue"
+        "color": "purple"
     },
     "encoding": {
         "x": {
             "field": "timestamp",
-            "title": "Date",
+            "title": "time of day",
             "type": "temporal"
         },
         "y": {
             "field": "volume",
-            "title": "Price (£)",
+            "title": "volume of trades",
             "type": "quantitative"
         }
     }
