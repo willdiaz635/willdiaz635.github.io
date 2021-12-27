@@ -31,6 +31,7 @@ h1 {
     background-color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 8px;
+    display: inline-flex;
 }
 
 h3 {
