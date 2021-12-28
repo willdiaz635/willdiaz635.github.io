@@ -3,6 +3,8 @@
     "data": {
         "url": "https://raw.githubusercontent.com/willdiaz635/willdiaz635.github.io/main/currencies.csv"
     },
+    "width": 300,
+    "height": 300,
     "title": {
         "text": "Linear regression: Euro vs. Pound (Dollar Value) over the past two years",
         "subtitle": "Data from Yahoo Finance",
