@@ -1,0 +1,21 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "UK GDP over the past two years",
+    "title": "UK GDP over the past two years: dips following lockdowns",
+    "data": {
+        "url": "https://raw.githubusercontent.com/willdiaz635/willdiaz635.github.io/main/UKGDP.csv"
+    },
+    "mark": "line",
+    "encoding": {
+        "x": {
+            "field": "Date",
+            "title": "Date",
+            "type": "temporal"
+        },
+        "y": {
+            "field": "GDP index",
+            "title": "GDP Indexs",
+            "type": "quantitative"
+        }
+    }
+}
