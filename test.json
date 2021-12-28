@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "data": {
-        "url": "https://raw.githubusercontent.com/jamiebbb/jamiebbb.github.io/main/data/ETH-USD%20monthly%20sep15-oct21.csv"
+        "url": "https://raw.githubusercontent.com/willdiaz635/willdiaz635.github.io/main/ETH-USD%20monthly%20sep15-oct21.csv"
     },
     "width": "container",
     "title": {
