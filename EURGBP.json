@@ -7,20 +7,26 @@
     "title": {
         "text": "Linear regression: Euro vs. Pound (Dollar Value) over the past two years",
         "subtitle": "Data from Yahoo Finance",
-        "subtitleFontStyle": "italic",
+        "subtitleFontStyle": "italic"
     },
     "layer": [
         {
             "mark": {
                 "type": "point",
-                "filled": true,
-                "tooltip": true
+                "tooltip": true,
+                "color": "orange"
             },
             "encoding": {
                 "x": {
                     "field": "EURUSD=X",
                     "title": "EUR",
                     "type": "quantitative",
+                    "scale": {
+                        "domain": [
+                            1.04,
+                            1.24
+                        ]
+                    },
                     "axis": {
                         "domain": true
                     }
@@ -28,14 +34,20 @@
                 "y": {
                     "field": "GBPUSD=X",
                     "title": "GBP",
-                    "type": "quantitative"
+                    "type": "quantitative",
+                    "scale": {
+                        "domain": [
+                            1.1,
+                            1.45
+                        ]
+                    }
                 }
             }
         },
         {
             "mark": {
                 "type": "line",
-                "color": "red"
+                "color": "navy"
             },
             "transform": [
                 {
@@ -68,7 +80,7 @@
             ],
             "mark": {
                 "type": "text",
-                "color": "red",
+                "color": "orange",
                 "x": "width",
                 "align": "right",
                 "y": -10
