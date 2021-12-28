@@ -1,0 +1,21 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "China's yearly fertility rate growth rate change over time",
+    "title": "China's yearly fertility rate growth rate change over time",
+    "data": {
+        "url": "https://raw.githubusercontent.com/willdiaz635/willdiaz635.github.io/main/china.csv"
+    },
+    "mark": "line",
+    "encoding": {
+        "x": {
+            "field": "Year",
+            "title": "Year",
+            "type": "temporal"
+        },
+        "y": {
+            "field": "new_growthRate",
+            "title": "Fertility Rate percentage change",
+            "type": "quantitative"
+        }
+    }
+}
