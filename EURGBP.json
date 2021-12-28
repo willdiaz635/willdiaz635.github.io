@@ -1,0 +1,84 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+        "url": "https://raw.githubusercontent.com/willdiaz635/willdiaz635.github.io/main/currencies.csv"
+    },
+    "width": "container",
+    "title": {
+        "text": "Linear regression: Euro vs. Pound (Dollar Value) over the past two years",
+        "subtitle": "Data from Yahoo Finance",
+        "subtitleFontStyle": "italic",
+    },
+    "layer": [
+        {
+            "mark": {
+                "type": "point",
+                "filled": true,
+                "tooltip": true
+            },
+            "encoding": {
+                "x": {
+                    "field": "EURUSD=X",
+                    "title": "EUR",
+                    "type": "quantitative",
+                    "axis": {
+                        "domain": true
+                    }
+                },
+                "y": {
+                    "field": "GBPUSD=X",
+                    "title": "GBP",
+                    "type": "quantitative"
+                }
+            }
+        },
+        {
+            "mark": {
+                "type": "line",
+                "color": "red"
+            },
+            "transform": [
+                {
+                    "regression": "EURUSD=X",
+                    "on": "GBPUSD=X"
+                }
+            ],
+            "encoding": {
+                "x": {
+                    "field": "EURUSD=X",
+                    "type": "quantitative"
+                },
+                "y": {
+                    "field": "GBPUSD=X",
+                    "type": "quantitative"
+                }
+            }
+        },
+        {
+            "transform": [
+                {
+                    "regression": "EURUSD=X",
+                    "on": "GBPUSD=X",
+                    "params": true
+                },
+                {
+                    "calculate": "'R²: '+format(datum.rSquared, '.2f')",
+                    "as": "R2"
+                }
+            ],
+            "mark": {
+                "type": "text",
+                "color": "red",
+                "x": "width",
+                "align": "right",
+                "y": -10
+            },
+            "encoding": {
+                "text": {
+                    "type": "nominal",
+                    "field": "R2"
+                }
+            }
+        }
+    ]
+}
