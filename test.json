@@ -1,0 +1,84 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+        "url": "https://raw.githubusercontent.com/jamiebbb/jamiebbb.github.io/main/data/ETH-USD%20monthly%20sep15-oct21.csv"
+    },
+    "width": "container",
+    "title": {
+        "text": "Linear regression: Ethereum Open Price on Silver Open Price",
+        "subtitle": "Monthly data from Yahoo Finance and Investing.com, 01/09/15 - 01/10/21",
+        "subtitleFontStyle": "italic",
+        "subtitleFontSize": 11,
+        "subtitleColor": "#2417db9c"
+    },
+    "layer": [
+        {
+            "mark": {
+                "type": "point",
+                "filled": true,
+                "tooltip": true
+            },
+            "encoding": {
+                "x": {
+                    "field": "ETH Open",
+                    "type": "quantitative",
+                    "axis": {
+                        "domain": true
+                    }
+                },
+                "y": {
+                    "field": "Silver Open",
+                    "type": "quantitative"
+                }
+            }
+        },
+        {
+            "mark": {
+                "type": "line",
+                "color": "firebrick"
+            },
+            "transform": [
+                {
+                    "regression": "ETH Open",
+                    "on": "Silver Open"
+                }
+            ],
+            "encoding": {
+                "x": {
+                    "field": "ETH Open",
+                    "type": "quantitative"
+                },
+                "y": {
+                    "field": "Silver Open",
+                    "type": "quantitative"
+                }
+            }
+        },
+        {
+            "transform": [
+                {
+                    "regression": "ETH Open",
+                    "on": "Silver Open",
+                    "params": true
+                },
+                {
+                    "calculate": "'R²: '+format(datum.rSquared, '.2f')",
+                    "as": "R2"
+                }
+            ],
+            "mark": {
+                "type": "text",
+                "color": "firebrick",
+                "x": "width",
+                "align": "right",
+                "y": -10
+            },
+            "encoding": {
+                "text": {
+                    "type": "nominal",
+                    "field": "R2"
+                }
+            }
+        }
+    ]
+}
