@@ -39,34 +39,12 @@ h3 {
     text-decoration: underline;
 }
 
-#footerh2 {
-    text-align: center;
-    text-decoration: underline;
-}
-
-#footerul {
-    text-align: center;
-}
-
-footer {
-    width: 880;
-    color: white;
-    font-size: 1em;
-    margin-bottom: 0px;
-}
-
-#week1title {
-    text-align: center;
-    text-decoration: white underline;
-}
-
-#week2title {
-    text-align: center;
-    text-decoration: white underline;
-}
-
 .description {
     margin-left: 10%;
     margin-right: 10%;
+}
+
+#week9 {
+    margin-bottom: 1.75em;
 }
 
