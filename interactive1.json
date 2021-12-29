@@ -8,8 +8,8 @@
         "anchor": "start",
         "color": "black"
     },
-    "width": 260,
-    "height": 260,
+    "width": 400,
+    "height": 300,
     "data": {
         "name": "myData",
         "url": "https://api.allorigins.win/raw?url=https://api.ons.gov.uk/timeseries/fzlv/dataset/ucst/data",
