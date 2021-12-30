@@ -1,0 +1,48 @@
+body {
+    background-color: navy;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+#buttondiv {
+    margin-top: 12em;
+}
+
+.button1 {
+    margin: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: red;
+    font-weight: bold;
+    border: white solid 1.5px;
+    border-radius: 2em;
+    width: 12em;
+    height: 2.5em;
+    color: black;
+}
+
+.button1:hover {
+    cursor: pointer;
+}
+
+h1 {
+    letter-spacing: 4.5px;
+    text-align: center;
+}
+
+#span1 {
+    color: red;
+    font-weight: bold;
+}
+
+#bristolspan {
+    color: red;
+}
+
+#footerdiv {
+    margin-top: 350px;
+    text-align: center;
+}
+
+#topdiv {
+    margin-top: 50px;
+}

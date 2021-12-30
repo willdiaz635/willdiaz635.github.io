@@ -12,7 +12,7 @@ h1 {
 }
 
 #span1 {
-    color: lightgreen;
+    color: red;
     font-weight: bold;
 }
 
@@ -51,5 +51,22 @@ h3 {
 #week1 {
     margin-top: 1.75em;
 }
+
+.button1 {
+    margin: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: red;
+    font-weight: bolder;
+    border: black solid 3px;
+    border-radius: 2em;
+    width: 10em;
+    height: 2.5em;
+    color: black;
+}
+
+.button1:hover {
+    cursor: pointer;
+}
+
 
 
