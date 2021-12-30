@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+
+<head>
+
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.17.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.17.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
+    <link rel="stylesheet" href="indexstyle.css">
+
+</head>
+
+<body>
+    <header>
+        <h1>Data<span id="span1">Science</span> / University of <span id="bristolspan">Bristol</span> / BSc Economics
+        </h1>
+        <div id="headerdiv">
+            William Oliver-Diaz, 2021
+        </div>
+    </header>
+
+    <center>
+        <section>
+            <div class="container" id="week1">
+                <h3 id="week1title">Week 1: Intro / Web design / Embedding template</h3>
+                <div class="div1">
+                    <h3>Covid</h3>
+                    <div class="chart" id="chart1">
+                        <script>
+                            var myChart1 = "chart1_covidUKRegions.json";
+                            vegaEmbed('#chart1', myChart1);
+                        </script>
+                    </div>
+                </div>
+
+                <div class="div2">
+                    <h3>Productivity</h3>
+                    <div class="chart" id="chart2">
+                        <script>
+                            var myChart2 = "chart2_ukProductivity.json";
+                            vegaEmbed('#chart2', myChart2);
+                        </script>
+                    </div>
+                </div>
+
+                <div class="div3">
+                    <h3>Wildfire</h3>
+                    <div class="chart" id="chart3">
+                        <script>
+                            var myChart3 = "chartENV16.json";
+                            vegaEmbed('#chart3', myChart3);
+                        </script>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container" id="week2">
+                <h3 id="week2title">Week 2: API vs. Github Data Hosting</h3>
+                <div class="div4">
+                    <div class="chart" id="chart4">
+                        <script>
+                            var myChart4 = "CovidChart_Week2API.json";
+                            vegaEmbed('#chart4', myChart4);
+                        </script>
+                    </div>
+                </div>
+                <div class="div5">
+                    <div class="chart" id="chart5">
+                        <script>
+                            var myChart5 = "CovidChart_Week2CSV.json";
+                            vegaEmbed('#chart5', myChart5);
+                        </script>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="container" id="week3">
+                <h3 id="week3title">Week 3: Editing data and writing JSON by hand</h3>
+                <div class="div6">
+                    <div class="chart" id="chart6">
+                        <script>
+                            var myChart6 = "MessiGoals.json";
+                            vegaEmbed('#chart6', myChart6);
+                        </script>
+                    </div>
+                </div>
+
+                <div class="div7">
+                    <div class="chart" id="chart7">
+                        <script>
+                            var myChart7 = "SevenoaksCovidDeaths.json";
+                            vegaEmbed('#chart7', myChart7);
+                        </script>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container" id="week4">
+                <h3 id="week4title">Week 4: API-driven charts - from APIs I have found</h3>
+                <div class="div8">
+                    <div class="chart" id="chart8">
+                        <script>
+                            var myChart8 = "IBMAPI.json";
+                            vegaEmbed('#chart8', myChart8);
+                        </script>
+                    </div>
+                </div>
+
+                <div class="div9">
+                    <div class="chart" id="chart9">
+                        <script>
+                            var myChart9 = "NO2EmissionsAPI.json";
+                            vegaEmbed('#chart9', myChart9);
+                        </script>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container" id="week5">
+                <h3 id="week5title">Week 5: Accessing multiple APIs using Python Loops</h3>
+                <div class="div10">
+                    <div class="chart" id="chart10">
+                        <script>
+                            var myChart10 = "BTCChart.json";
+                            vegaEmbed('#chart10', myChart10);
+                        </script>
+                    </div>
+                </div>
+
+                <div class="div11">
+                    <div class="chart" id="chart11">
+                        <script>
+                            var myChart11 = "ETHChart.json";
+                            vegaEmbed('#chart11', myChart11);
+                        </script>
+                    </div>
+                </div>
+
+                <div class="div12">
+                    <div class="chart" id="chart12">
+                        <script>
+                            var myChart12 = "DOGEChart.json";
+                            vegaEmbed('#chart12', myChart12);
+                        </script>
+                    </div>
+                </div>
+
+                <div class="div13">
+                    <div class="chart" id="chart13">
+                        <script>
+                            var myChart13 = "XRPChart.json";
+                            vegaEmbed('#chart13', myChart13);
+                        </script>
+                    </div>
+                </div>
+            </div>
+
+            <div>
+                <h3>Week 6: Reading Week</h3>
+            </div>
+
+            <div class="container" id="week7">
+                <h3 id="week7title">Week 7: Scraping Data to create a chart</h3>
+                <div class="div14">
+                    <div class="chart" id="chart14">
+                        <script>
+                            var myChart14 = "china.json";
+                            vegaEmbed('#chart14', myChart14);
+                        </script>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container" id="week8">
+                <h3 id="week8title">Week 8: Telling a story from the Economics Festival</h3>
+                <div>
+                    <p class="description">Chris Giles claimed the UK's ability to cope with lockdowns has improved with
+                        respect to the
+                        March and November 2020 lockdowns. With GDP a solid overall measure of a country's economic
+                        health and status, it is clear that the fall in the GDP Index is far higher at around 25 points
+                        following the first one, compared to just 2.2 points following the second lockdown. As such,
+                        Giles's statement is valid.</p>
+                </div>
+                <div class="div15">
+                    <div class="chart" id="chart15">
+                        <script>
+                            var myChart15 = "UKGDP.json";
+                            vegaEmbed('#chart15', myChart15);
+                        </script>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container" id="week9">
+                <h3 id="week9title">Week 9: Regressing data from two different sources</h3>
+                <div>
+                    <p class="description">It is clear from the below regression of the Euro on the British Pound (in US
+                        Dollar value) that
+                        the two currencies are correlated. An R squared value of 0.61 indicates a positive correlation.
+                    </p>
+                </div>
+                <div class="div16">
+                    <div class="chart" id="chart16">
+                        <script>
+                            var myChart16 = "EURGBP.json";
+                            vegaEmbed('#chart16', myChart16);
+                        </script>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container" id="week10">
+                <h3 id="week10title">Week 10: Interactive Charts</h3>
+                <div class="div17">
+                    <div class="chart" id="chart17">
+                        <h2>Productivity and Compensation: Using Sliders</h2>
+                        <script>
+                            var myChart17 = "interactive1.json";
+                            vegaEmbed('#chart17', myChart17);
+                        </script>
+                    </div>
+                </div>
+            </div>
+
+        </section>
+    </center>
+
+</body>
+
+</html>
