@@ -1,0 +1,55 @@
+body {
+    margin: 20px;
+    background-color: navy;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    border: white solid 5px;
+}
+
+h1 {
+    letter-spacing: 4.5px;
+    text-align: center;
+}
+
+#span1 {
+    color: lightgreen;
+    font-weight: bold;
+}
+
+#bristolspan {
+    color: red;
+}
+
+#headerdiv {
+    text-align: center;
+}
+
+.chart {
+    border: lightgreen solid 5px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 8px;
+    display: flex;
+}
+
+h3 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.description {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#week10 {
+    margin-bottom: 1.75em;
+}
+
+#week1 {
+    margin-top: 1.75em;
+}
+
+
