@@ -24,6 +24,8 @@ body {
     cursor: pointer;
     padding: 2em;
     transition-duration: 0.2s;
+    color: red;
+    background-color: black;
 }
 
 #topdiv {
