@@ -1,18 +1,18 @@
 body {
-    background-color: navy;
+    background-color: #6e6e6e;
     font-family: 'Courier New', Courier, monospace;
     color: white;
 }
 
 #project {
-    color: red;
+    color: #bcfd4c;
 }
 
 .button1 {
     margin-left: 15px;
     margin-right: 15px;
     font-family: 'Courier New', Courier, monospace;
-    background-color: red;
+    background-color: #bcfd4c;
     font-weight: bold;
     border: white solid 1.5px;
     border-radius: 1.5em;
@@ -35,12 +35,21 @@ body {
     text-align: center;
     margin-left: 10%;
     margin-right: 10%;
+    margin-top: 10px;
 }
 
 #chartlist {
     text-align: left;
     margin-left: 17.5%;
     margin-right: 17.5%;
+}
+
+#main {
+    line-height: 1.3;
+}
+
+li {
+    margin: 20px;
 }
 
 

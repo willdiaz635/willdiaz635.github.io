@@ -1,7 +1,7 @@
 body {
-    background-color: navy;
+    background-color: #fdd935;
     font-family: 'Courier New', Courier, monospace;
-    color: white;
+    color: #000000;
 }
 
 #buttondiv {
@@ -17,9 +17,9 @@ body {
     margin-right: 15px;
     font-family: 'Courier New', Courier, monospace;
     font-size: 1em;
-    background-color: red;
+    background-color: #9df;
     font-weight: bold;
-    border: white solid 1.5px;
+    border: #00458b solid 1.5px;
     border-radius: 1.5em;
     padding: 1.5em;
     color: black;
@@ -33,12 +33,12 @@ body {
 }
 
 #span1 {
-    color: red;
+    color: #1ba098;
     font-weight: bold;
 }
 
 #bristolspan {
-    color: red;
+    color: #1ba098;
 }
 
 #footerdiv {
