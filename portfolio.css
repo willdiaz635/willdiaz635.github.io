@@ -69,7 +69,6 @@ h3 {
 
 .button1:hover {
     cursor: pointer;
-    padding: 2em;
     transition-duration: 0.2s;
     color: red;
     background-color: black;
@@ -78,6 +77,8 @@ h3 {
 #portfolio {
     color: red;
 }
+
+
 
 
 

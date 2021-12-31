@@ -22,7 +22,6 @@ body {
 
 .button1:hover {
     cursor: pointer;
-    padding: 2em;
     transition-duration: 0.2s;
     color: red;
     background-color: black;
@@ -41,6 +40,7 @@ body {
 #chartlist {
     text-align: left;
     margin-left: 17.5%;
+    margin-right: 17.5%;
 }
 
 
