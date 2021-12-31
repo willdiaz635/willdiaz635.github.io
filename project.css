@@ -25,3 +25,15 @@ body {
     padding: 2em;
     transition-duration: 0.2s;
 }
+
+#topdiv {
+    margin: 1em;
+}
+
+#p1 {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+}
+
+
