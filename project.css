@@ -65,5 +65,10 @@ li {
     display: flex;
 }
 
+.description {
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+}
+
 
 
