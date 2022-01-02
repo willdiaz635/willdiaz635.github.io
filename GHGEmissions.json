@@ -1,141 +1,28 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "GHG emissions",
     "data": {
-        "url": "https://raw.githubusercontent.com/willdiaz635/willdiaz635.github.io/main/KyotoGHGEmissions.csv",
-        "format": {
-            "type": "csv"
-        }
+        "url": "https://raw.githubusercontent.com/willdiaz635/willdiaz635.github.io/main/KyotoGHGEmissions.csv"
     },
-    "width": 650,
-    "height": 550,
     "title": {
-        "text": "Annual Greenhouse Gas emissions (1850-2018)",
-        "subtitle": "Source: Climatewatch - PIK",
-        "subtitleFontStyle": "italic"
+        "text": "Greenhouse Gas emissions (1850-2018)",
+        "subtitle": "Source: Climatewatch.com - PIK"
     },
-    "layer": [
-        {
-            "encoding": {
-                "x": {
-                    "field": "Year",
-                    "title": "Year",
-                    "type": "temporal",
-                    "axis": {
-                        "grid": false
-                    }
-                },
-                "y": {
-                    "field": "Pollution",
-                    "title": "Metric tons of Carbon Dioxide equivalent",
-                    "type": "quantitative",
-                    "axis": {
-                        "grid": true
-                    }
-                },
-                "color": {
-                    "field": "Category",
-                    "type": "nominal"
-                }
-            },
-            "layer": [
-                {
-                    "mark": "line"
-                },
-                {
-                    "params": [
-                        {
-                            "name": "Category",
-                            "select": {
-                                "type": "point",
-                                "encodings": [
-                                    "x"
-                                ],
-                                "nearest": true,
-                                "on": "mouseover"
-                            }
-                        }
-                    ],
-                    "mark": "point",
-                    "encoding": {
-                        "opacity": {
-                            "condition": {
-                                "param": "Category",
-                                "empty": false,
-                                "value": 1
-                            },
-                            "value": 0
-                        }
-                    }
-                }
-            ]
+    "width": 600,
+    "height": 450,
+    "mark": "line",
+    "encoding": {
+        "x": {
+            "field": "Year",
+            "type": "temporal"
         },
-        {
-            "transform": [
-                {
-                    "filter": {
-                        "param": "Category",
-                        "empty": false
-                    }
-                }
-            ],
-            "layer": [
-                {
-                    "mark": {
-                        "type": "rule",
-                        "color": "gray"
-                    },
-                    "encoding": {
-                        "x": {
-                            "type": "temporal",
-                            "field": "Year",
-                            "aggregate": "min"
-                        }
-                    }
-                },
-                {
-                    "encoding": {
-                        "text": {
-                            "type": "quantitative",
-                            "field": "Pollution"
-                        },
-                        "x": {
-                            "type": "temporal",
-                            "field": "Year"
-                        },
-                        "y": {
-                            "type": "quantitative",
-                            "field": "Pollution"
-                        }
-                    },
-                    "layer": [
-                        {
-                            "mark": {
-                                "type": "text",
-                                "stroke": "white",
-                                "strokeWidth": 2,
-                                "align": "left",
-                                "dx": 5,
-                                "dy": -5
-                            }
-                        },
-                        {
-                            "mark": {
-                                "type": "text",
-                                "align": "left",
-                                "dx": 5,
-                                "dy": -5
-                            },
-                            "encoding": {
-                                "color": {
-                                    "type": "nominal",
-                                    "field": "Category",
-                                    "title": "Country / Area"
-                                }
-                            }
-                        }
-                    ]
-                }
-            ]
+        "y": {
+            "field": "Pollution",
+            "type": "quantitative"
+        },
+        "color": {
+            "field": "Category",
+            "type": "nominal"
         }
-    ]
+    }
 }
