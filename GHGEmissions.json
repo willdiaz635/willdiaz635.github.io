@@ -1,10 +1,13 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "data": {
-        "url": "https://raw.githubusercontent.com/willdiaz635/willdiaz635.github.io/main/KyotoGHGEmissions.csv"
+        "url": "https://raw.githubusercontent.com/willdiaz635/willdiaz635.github.io/main/KyotoGHGEmissions.csv",
+        "format": {
+            "type": "csv"
+        }
     },
-    "width": 400,
-    "height": 300,
+    "width": 650,
+    "height": 550,
     "title": {
         "text": "Annual Greenhouse Gas emissions (1850-2018)",
         "subtitle": "Source: Climatewatch - PIK",
@@ -16,12 +19,18 @@
                 "x": {
                     "field": "Year",
                     "title": "Year",
-                    "type": "temporal"
+                    "type": "temporal",
+                    "axis": {
+                        "grid": false
+                    }
                 },
                 "y": {
                     "field": "Pollution",
                     "title": "Metric tons of Carbon Dioxide equivalent",
-                    "type": "quantitative"
+                    "type": "quantitative",
+                    "axis": {
+                        "grid": true
+                    }
                 },
                 "color": {
                     "field": "Category",
@@ -35,7 +44,7 @@
                 {
                     "params": [
                         {
-                            "name": "label",
+                            "name": "Category",
                             "select": {
                                 "type": "point",
                                 "encodings": [
@@ -50,7 +59,7 @@
                     "encoding": {
                         "opacity": {
                             "condition": {
-                                "param": "label",
+                                "param": "Category",
                                 "empty": false,
                                 "value": 1
                             },
@@ -64,7 +73,7 @@
             "transform": [
                 {
                     "filter": {
-                        "param": "label",
+                        "param": "Category",
                         "empty": false
                     }
                 }
