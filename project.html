@@ -17,7 +17,7 @@
 <body>
     <center>
         <header>
-            <h2><span id="project">Project:</span> Pollution and Health</h2>
+            <h2><span id="project">Project:</span> Air Pollution and Health</h2>
             <div id="topdiv">
                 <button class="button1" onclick="location.href='https://willdiaz635.github.io/'">Home</button>
                 <button class="button1"
@@ -31,13 +31,12 @@
         </header>
 
         <section id="main">
-            <p id="p1">This project will investigate various data on pollution and health, ultimately aiming to discover
-                relationships and uncover any correlations between the two.</p>
+            <p id="p1">This project will investigate various data on air pollution and health, ultimately aiming to
+                discover relationships and uncover any correlations between the two.</p>
             <div>
                 <ol id="chartlist">
-                    <li>Pollution types e.g. co2, methane, co, water, land and trends over time by country. This is to
-                        make sure there aren't any countries with say loads of air pollution but perfectly clean land.
-                        As such 'pollution' captures all types. <a href="https://www.climatewatchdata.org/">data:
+                    <li>Pollution levels 1990-2018 by country and gas type. This is to get an idea of countries at the
+                        top and bottom of the rankings. <a href="https://www.climatewatchdata.org/">data:
                             climatewatch</a>
                     </li>
                     <li>Deaths attributable to the environment (%) and Air Pollution Exposure by country (pm2.5) <a
@@ -54,6 +53,19 @@
                         quickly? Can we expect their health to increase in the future like for the UK and US?</li>
                 </ol>
             </div>
+
+            <div class="container" id="item1">
+                <h3 id="item1title">1: An overview of Greenhouse Gas emissions: High and Low</h3>
+                <div class="div1">
+                    <div class="chart" id="chart1">
+                        <script>
+                            var myChart1 = "GHGEmissions.json";
+                            vegaEmbed('#chart1', myChart1);
+                        </script>
+                    </div>
+                </div>
+            </div>
+
         </section>
     </center>
 </body>
