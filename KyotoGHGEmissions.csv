@@ -1,0 +1,1522 @@
+Year,Category,Pollution
+1850,China,40.5
+1851,China,43.3
+1852,China,46.1
+1853,China,48.8
+1854,China,51.5
+1855,China,54.2
+1856,China,56.8
+1857,China,59.4
+1858,China,61.9
+1859,China,64.4
+1860,China,66.8
+1861,China,69.2
+1862,China,71.5
+1863,China,73.8
+1864,China,76
+1865,China,78.2
+1866,China,80.4
+1867,China,82.5
+1868,China,84.5
+1869,China,86.5
+1870,China,88.5
+1871,China,90.5
+1872,China,92.5
+1873,China,94.6
+1874,China,96.7
+1875,China,98.7
+1876,China,101
+1877,China,103
+1878,China,105
+1879,China,106
+1880,China,108
+1881,China,110
+1882,China,111
+1883,China,113
+1884,China,114
+1885,China,115
+1886,China,117
+1887,China,118
+1888,China,119
+1889,China,120
+1890,China,123
+1891,China,124
+1892,China,125
+1893,China,126
+1894,China,127
+1895,China,128
+1896,China,129
+1897,China,130
+1898,China,131
+1899,China,133
+1900,China,134
+1901,China,135
+1902,China,136
+1903,China,140
+1904,China,141
+1905,China,143
+1906,China,160
+1907,China,161
+1908,China,169
+1909,China,169
+1910,China,168
+1911,China,179
+1912,China,163
+1913,China,166
+1914,China,173
+1915,China,176
+1916,China,180
+1917,China,184
+1918,China,187
+1919,China,193
+1920,China,198
+1921,China,200
+1922,China,205
+1923,China,216
+1924,China,225
+1925,China,230
+1926,China,232
+1927,China,242
+1928,China,248
+1929,China,255
+1930,China,260
+1931,China,265
+1932,China,266
+1933,China,272
+1934,China,281
+1935,China,291
+1936,China,300
+1937,China,298
+1938,China,296
+1939,China,311
+1940,China,333
+1941,China,358
+1942,China,369
+1943,China,358
+1944,China,365
+1945,China,324
+1946,China,311
+1947,China,320
+1948,China,318
+1949,China,360
+1950,China,387
+1951,China,423
+1952,China,472
+1953,China,509
+1954,China,571
+1955,China,638
+1956,China,701
+1957,China,776
+1958,China,1070
+1959,China,1290
+1960,China,1360
+1961,China,1150
+1962,China,1040
+1963,China,1050
+1964,China,1080
+1965,China,1140
+1966,China,1210
+1967,China,1130
+1968,China,1170
+1969,China,1290
+1970,China,1520
+1971,China,1650
+1972,China,1730
+1973,China,1780
+1974,China,1800
+1975,China,1990
+1976,China,2050
+1977,China,2190
+1978,China,2370
+1979,China,2430
+1980,China,2410
+1981,China,2390
+1982,China,2530
+1983,China,2650
+1984,China,2830
+1985,China,2980
+1986,China,3110
+1987,China,3300
+1988,China,3490
+1989,China,3570
+1990,China,3630
+1991,China,3770
+1992,China,3900
+1993,China,4080
+1994,China,4330
+1995,China,4680
+1996,China,4860
+1997,China,4840
+1998,China,4700
+1999,China,4770
+2000,China,4890
+2001,China,4990
+2002,China,5410
+2003,China,6190
+2004,China,7000
+2005,China,7770
+2006,China,8530
+2007,China,9080
+2008,China,9650
+2009,China,10100
+2010,China,11000
+2011,China,12000
+2012,China,12400
+2013,China,12700
+2014,China,12800
+2015,China,12700
+2016,China,12800
+2017,China,13100
+2018,China,13400
+1850,Finland,2.67
+1851,Finland,2.69
+1852,Finland,2.72
+1853,Finland,2.74
+1854,Finland,2.77
+1855,Finland,2.81
+1856,Finland,2.84
+1857,Finland,2.87
+1858,Finland,2.91
+1859,Finland,2.95
+1860,Finland,2.94
+1861,Finland,3.09
+1862,Finland,3.12
+1863,Finland,3.17
+1864,Finland,3.11
+1865,Finland,3.19
+1866,Finland,3.25
+1867,Finland,3.26
+1868,Finland,3.38
+1869,Finland,3.37
+1870,Finland,3.48
+1871,Finland,3.6
+1872,Finland,3.59
+1873,Finland,3.65
+1874,Finland,3.85
+1875,Finland,3.79
+1876,Finland,3.91
+1877,Finland,4.06
+1878,Finland,4.17
+1879,Finland,4.09
+1880,Finland,4.23
+1881,Finland,4.28
+1882,Finland,4.41
+1883,Finland,4.46
+1884,Finland,4.59
+1885,Finland,4.91
+1886,Finland,4.67
+1887,Finland,4.73
+1888,Finland,4.77
+1889,Finland,4.97
+1890,Finland,4.59
+1891,Finland,4.99
+1892,Finland,5.34
+1893,Finland,5.69
+1894,Finland,6.03
+1895,Finland,6.34
+1896,Finland,6.65
+1897,Finland,7.08
+1898,Finland,7.21
+1899,Finland,7.59
+1900,Finland,7.5
+1901,Finland,7.32
+1902,Finland,7.25
+1903,Finland,7.3
+1904,Finland,7.21
+1905,Finland,7.16
+1906,Finland,7.08
+1907,Finland,7.26
+1908,Finland,7.73
+1909,Finland,7.56
+1910,Finland,7.33
+1911,Finland,7.63
+1912,Finland,7.85
+1913,Finland,8.09
+1914,Finland,7.12
+1915,Finland,6.56
+1916,Finland,6.7
+1917,Finland,6.7
+1918,Finland,6.72
+1919,Finland,6.97
+1920,Finland,7.08
+1921,Finland,7.18
+1922,Finland,7.74
+1923,Finland,8.67
+1924,Finland,9.09
+1925,Finland,9.21
+1926,Finland,9.24
+1927,Finland,10.9
+1928,Finland,11.2
+1929,Finland,11.6
+1930,Finland,11
+1931,Finland,11.5
+1932,Finland,11.7
+1933,Finland,12
+1934,Finland,13
+1935,Finland,12.7
+1936,Finland,14.4
+1937,Finland,16.5
+1938,Finland,15.5
+1939,Finland,14.8
+1940,Finland,12.1
+1941,Finland,13.2
+1942,Finland,13
+1943,Finland,14.5
+1944,Finland,13.6
+1945,Finland,11.9
+1946,Finland,15.1
+1947,Finland,17.9
+1948,Finland,21.4
+1949,Finland,18.1
+1950,Finland,20
+1951,Finland,21.7
+1952,Finland,22.7
+1953,Finland,21.9
+1954,Finland,24
+1955,Finland,26.2
+1956,Finland,27.9
+1957,Finland,28.4
+1958,Finland,27.1
+1959,Finland,30.6
+1960,Finland,32.6
+1961,Finland,32.5
+1962,Finland,35
+1963,Finland,38.1
+1964,Finland,42.2
+1965,Finland,44.9
+1966,Finland,49.6
+1967,Finland,48.9
+1968,Finland,54.2
+1969,Finland,59.2
+1970,Finland,61
+1971,Finland,61
+1972,Finland,65.2
+1973,Finland,71.7
+1974,Finland,69.3
+1975,Finland,66.8
+1976,Finland,71.4
+1977,Finland,70.1
+1978,Finland,72.2
+1979,Finland,75.6
+1980,Finland,79.4
+1981,Finland,71.9
+1982,Finland,62.4
+1983,Finland,60.7
+1984,Finland,61.8
+1985,Finland,69.2
+1986,Finland,72.9
+1987,Finland,78.1
+1988,Finland,71.7
+1989,Finland,72.2
+1990,Finland,71.6
+1991,Finland,69.4
+1992,Finland,68
+1993,Finland,70.3
+1994,Finland,76.1
+1995,Finland,73
+1996,Finland,78.5
+1997,Finland,77.1
+1998,Finland,73.4
+1999,Finland,72.8
+2000,Finland,70.8
+2001,Finland,76.1
+2002,Finland,78.6
+2003,Finland,86.2
+2004,Finland,82.5
+2005,Finland,70.5
+2006,Finland,81.9
+2007,Finland,80.2
+2008,Finland,72.1
+2009,Finland,68.4
+2010,Finland,76.3
+2011,Finland,68.5
+2012,Finland,63
+2013,Finland,63.4
+2014,Finland,59.2
+2015,Finland,55.6
+2016,Finland,58.5
+2017,Finland,55.8
+2018,Finland,56.9
+1850,India,61.2
+1851,India,68.1
+1852,India,74.8
+1853,India,81.4
+1854,India,87.9
+1855,India,94.3
+1856,India,101
+1857,India,107
+1858,India,113
+1859,India,119
+1860,India,124
+1861,India,130
+1862,India,135
+1863,India,141
+1864,India,146
+1865,India,151
+1866,India,156
+1867,India,161
+1868,India,166
+1869,India,170
+1870,India,175
+1871,India,179
+1872,India,184
+1873,India,189
+1874,India,193
+1875,India,198
+1876,India,202
+1877,India,206
+1878,India,210
+1879,India,214
+1880,India,217
+1881,India,221
+1882,India,224
+1883,India,227
+1884,India,230
+1885,India,232
+1886,India,235
+1887,India,238
+1888,India,240
+1889,India,243
+1890,India,246
+1891,India,247
+1892,India,249
+1893,India,251
+1894,India,252
+1895,India,255
+1896,India,257
+1897,India,258
+1898,India,260
+1899,India,262
+1900,India,265
+1901,India,267
+1902,India,269
+1903,India,270
+1904,India,272
+1905,India,273
+1906,India,276
+1907,India,279
+1908,India,283
+1909,India,283
+1910,India,283
+1911,India,285
+1912,India,290
+1913,India,295
+1914,India,298
+1915,India,301
+1916,India,304
+1917,India,308
+1918,India,314
+1919,India,319
+1920,India,312
+1921,India,315
+1922,India,313
+1923,India,313
+1924,India,314
+1925,India,312
+1926,India,310
+1927,India,310
+1928,India,308
+1929,India,309
+1930,India,310
+1931,India,308
+1932,India,309
+1933,India,312
+1934,India,321
+1935,India,328
+1936,India,332
+1937,India,341
+1938,India,352
+1939,India,354
+1940,India,359
+1941,India,361
+1942,India,363
+1943,India,357
+1944,India,359
+1945,India,366
+1946,India,367
+1947,India,369
+1948,India,371
+1949,India,376
+1950,India,383
+1951,India,389
+1952,India,398
+1953,India,404
+1954,India,414
+1955,India,427
+1956,India,437
+1957,India,455
+1958,India,466
+1959,India,478
+1960,India,494
+1961,India,512
+1962,India,529
+1963,India,543
+1964,India,548
+1965,India,564
+1966,India,579
+1967,India,587
+1968,India,610
+1969,India,622
+1970,India,624
+1971,India,635
+1972,India,654
+1973,India,664
+1974,India,667
+1975,India,699
+1976,India,713
+1977,India,732
+1978,India,738
+1979,India,759
+1980,India,773
+1981,India,811
+1982,India,818
+1983,India,857
+1984,India,882
+1985,India,925
+1986,India,963
+1987,India,993
+1988,India,1060
+1989,India,1120
+1990,India,1150
+1991,India,1210
+1992,India,1250
+1993,India,1280
+1994,India,1340
+1995,India,1400
+1996,India,1470
+1997,India,1510
+1998,India,1540
+1999,India,1610
+2000,India,1640
+2001,India,1630
+2002,India,1630
+2003,India,1680
+2004,India,1740
+2005,India,1800
+2006,India,1870
+2007,India,1970
+2008,India,2120
+2009,India,2270
+2010,India,2250
+2011,India,2370
+2012,India,2520
+2013,India,2540
+2014,India,2730
+2015,India,2800
+2016,India,2890
+2017,India,2980
+2018,India,3130
+1850,Kiribati,0
+1851,Kiribati,0
+1852,Kiribati,0
+1853,Kiribati,0
+1854,Kiribati,0
+1855,Kiribati,0
+1856,Kiribati,0
+1857,Kiribati,0
+1858,Kiribati,0
+1859,Kiribati,0
+1860,Kiribati,0
+1861,Kiribati,0
+1862,Kiribati,0
+1863,Kiribati,0
+1864,Kiribati,0
+1865,Kiribati,0
+1866,Kiribati,0
+1867,Kiribati,0
+1868,Kiribati,0
+1869,Kiribati,0
+1870,Kiribati,0
+1871,Kiribati,0
+1872,Kiribati,0
+1873,Kiribati,0
+1874,Kiribati,0
+1875,Kiribati,0
+1876,Kiribati,0
+1877,Kiribati,0
+1878,Kiribati,0
+1879,Kiribati,0
+1880,Kiribati,0
+1881,Kiribati,0
+1882,Kiribati,0
+1883,Kiribati,0
+1884,Kiribati,0
+1885,Kiribati,0
+1886,Kiribati,0
+1887,Kiribati,0
+1888,Kiribati,0
+1889,Kiribati,0
+1890,Kiribati,0
+1891,Kiribati,0
+1892,Kiribati,0
+1893,Kiribati,0
+1894,Kiribati,0
+1895,Kiribati,0
+1896,Kiribati,0
+1897,Kiribati,0
+1898,Kiribati,0
+1899,Kiribati,0
+1900,Kiribati,0
+1901,Kiribati,0
+1902,Kiribati,0
+1903,Kiribati,0
+1904,Kiribati,0
+1905,Kiribati,0
+1906,Kiribati,0
+1907,Kiribati,0
+1908,Kiribati,0
+1909,Kiribati,0
+1910,Kiribati,0
+1911,Kiribati,0
+1912,Kiribati,0
+1913,Kiribati,0
+1914,Kiribati,0
+1915,Kiribati,0
+1916,Kiribati,0
+1917,Kiribati,0
+1918,Kiribati,0
+1919,Kiribati,0
+1920,Kiribati,0
+1921,Kiribati,0
+1922,Kiribati,0
+1923,Kiribati,0
+1924,Kiribati,0
+1925,Kiribati,0
+1926,Kiribati,0
+1927,Kiribati,0
+1928,Kiribati,0
+1929,Kiribati,0
+1930,Kiribati,0
+1931,Kiribati,0
+1932,Kiribati,0
+1933,Kiribati,0
+1934,Kiribati,0.01
+1935,Kiribati,0.01
+1936,Kiribati,0.01
+1937,Kiribati,0.01
+1938,Kiribati,0.01
+1939,Kiribati,0.01
+1940,Kiribati,0.01
+1941,Kiribati,0.01
+1942,Kiribati,0.01
+1943,Kiribati,0.01
+1944,Kiribati,0.01
+1945,Kiribati,0.01
+1946,Kiribati,0.01
+1947,Kiribati,0.01
+1948,Kiribati,0.01
+1949,Kiribati,0.01
+1950,Kiribati,0.01
+1951,Kiribati,0.01
+1952,Kiribati,0.01
+1953,Kiribati,0.01
+1954,Kiribati,0.01
+1955,Kiribati,0.01
+1956,Kiribati,0.01
+1957,Kiribati,0.01
+1958,Kiribati,0.01
+1959,Kiribati,0.01
+1960,Kiribati,0.01
+1961,Kiribati,0.01
+1962,Kiribati,0.01
+1963,Kiribati,0.02
+1964,Kiribati,0.02
+1965,Kiribati,0.02
+1966,Kiribati,0.02
+1967,Kiribati,0.02
+1968,Kiribati,0.03
+1969,Kiribati,0.02
+1970,Kiribati,0.02
+1971,Kiribati,0.03
+1972,Kiribati,0.03
+1973,Kiribati,0.03
+1974,Kiribati,0.03
+1975,Kiribati,0.03
+1976,Kiribati,0.03
+1977,Kiribati,0.03
+1978,Kiribati,0.03
+1979,Kiribati,0.03
+1980,Kiribati,0.03
+1981,Kiribati,0.03
+1982,Kiribati,0.03
+1983,Kiribati,0.03
+1984,Kiribati,0.03
+1985,Kiribati,0.03
+1986,Kiribati,0.03
+1987,Kiribati,0.03
+1988,Kiribati,0.03
+1989,Kiribati,0.03
+1990,Kiribati,0.04
+1991,Kiribati,0.04
+1992,Kiribati,0.04
+1993,Kiribati,0.04
+1994,Kiribati,0.04
+1995,Kiribati,0.04
+1996,Kiribati,0.05
+1997,Kiribati,0.04
+1998,Kiribati,0.04
+1999,Kiribati,0.05
+2000,Kiribati,0.05
+2001,Kiribati,0.05
+2002,Kiribati,0.06
+2003,Kiribati,0.06
+2004,Kiribati,0.06
+2005,Kiribati,0.06
+2006,Kiribati,0.1
+2007,Kiribati,0.1
+2008,Kiribati,0.1
+2009,Kiribati,0.08
+2010,Kiribati,0.11
+2011,Kiribati,0.11
+2012,Kiribati,0.11
+2013,Kiribati,0.11
+2014,Kiribati,0.12
+2015,Kiribati,0.13
+2016,Kiribati,0.14
+2017,Kiribati,0.14
+2018,Kiribati,0.18
+1850,Netherlands,9.33
+1851,Netherlands,9.36
+1852,Netherlands,10
+1853,Netherlands,10.5
+1854,Netherlands,12.3
+1855,Netherlands,11.1
+1856,Netherlands,11.2
+1857,Netherlands,10.8
+1858,Netherlands,10.4
+1859,Netherlands,10.3
+1860,Netherlands,11.6
+1861,Netherlands,11.3
+1862,Netherlands,12.6
+1863,Netherlands,11.2
+1864,Netherlands,10.6
+1865,Netherlands,11.1
+1866,Netherlands,11.6
+1867,Netherlands,11.5
+1868,Netherlands,11.8
+1869,Netherlands,12
+1870,Netherlands,12.7
+1871,Netherlands,12.9
+1872,Netherlands,13.3
+1873,Netherlands,13.3
+1874,Netherlands,13.1
+1875,Netherlands,14
+1876,Netherlands,14.9
+1877,Netherlands,15.2
+1878,Netherlands,15.8
+1879,Netherlands,16.5
+1880,Netherlands,17.4
+1881,Netherlands,17.6
+1882,Netherlands,17.8
+1883,Netherlands,18.8
+1884,Netherlands,19
+1885,Netherlands,19.5
+1886,Netherlands,19.9
+1887,Netherlands,20.2
+1888,Netherlands,21.4
+1889,Netherlands,21.3
+1890,Netherlands,20.3
+1891,Netherlands,22.7
+1892,Netherlands,22.9
+1893,Netherlands,23.7
+1894,Netherlands,24.5
+1895,Netherlands,25.1
+1896,Netherlands,26.5
+1897,Netherlands,27.5
+1898,Netherlands,27.7
+1899,Netherlands,28.3
+1900,Netherlands,29.8
+1901,Netherlands,29.5
+1902,Netherlands,29.5
+1903,Netherlands,30.4
+1904,Netherlands,31.1
+1905,Netherlands,31.4
+1906,Netherlands,32.6
+1907,Netherlands,33
+1908,Netherlands,33.2
+1909,Netherlands,34.2
+1910,Netherlands,35.1
+1911,Netherlands,36.4
+1912,Netherlands,39.2
+1913,Netherlands,41.9
+1914,Netherlands,40.3
+1915,Netherlands,39.2
+1916,Netherlands,37.3
+1917,Netherlands,24.3
+1918,Netherlands,30
+1919,Netherlands,37.4
+1920,Netherlands,37.7
+1921,Netherlands,39
+1922,Netherlands,43.1
+1923,Netherlands,43.4
+1924,Netherlands,47
+1925,Netherlands,50.3
+1926,Netherlands,51.4
+1927,Netherlands,55.3
+1928,Netherlands,55.7
+1929,Netherlands,59.4
+1930,Netherlands,59.2
+1931,Netherlands,63.4
+1932,Netherlands,60.4
+1933,Netherlands,58.1
+1934,Netherlands,58.5
+1935,Netherlands,57.6
+1936,Netherlands,60.5
+1937,Netherlands,64.8
+1938,Netherlands,64.5
+1939,Netherlands,62.4
+1940,Netherlands,55.9
+1941,Netherlands,59.6
+1942,Netherlands,57.7
+1943,Netherlands,58.8
+1944,Netherlands,48.5
+1945,Netherlands,41.2
+1946,Netherlands,58.2
+1947,Netherlands,72.3
+1948,Netherlands,75.9
+1949,Netherlands,79.8
+1950,Netherlands,81.2
+1951,Netherlands,85.4
+1952,Netherlands,86.1
+1953,Netherlands,87.6
+1954,Netherlands,91.8
+1955,Netherlands,95.6
+1956,Netherlands,101
+1957,Netherlands,102
+1958,Netherlands,105
+1959,Netherlands,107
+1960,Netherlands,114
+1961,Netherlands,118
+1962,Netherlands,127
+1963,Netherlands,135
+1964,Netherlands,142
+1965,Netherlands,148
+1966,Netherlands,153
+1967,Netherlands,157
+1968,Netherlands,165
+1969,Netherlands,168
+1970,Netherlands,192
+1971,Netherlands,192
+1972,Netherlands,211
+1973,Netherlands,222
+1974,Netherlands,220
+1975,Netherlands,212
+1976,Netherlands,229
+1977,Netherlands,224
+1978,Netherlands,231
+1979,Netherlands,248
+1980,Netherlands,238
+1981,Netherlands,226
+1982,Netherlands,194
+1983,Netherlands,198
+1984,Netherlands,205
+1985,Netherlands,208
+1986,Netherlands,204
+1987,Netherlands,211
+1988,Netherlands,205
+1989,Netherlands,220
+1990,Netherlands,221
+1991,Netherlands,229
+1992,Netherlands,230
+1993,Netherlands,231
+1994,Netherlands,231
+1995,Netherlands,232
+1996,Netherlands,242
+1997,Netherlands,234
+1998,Netherlands,235
+1999,Netherlands,221
+2000,Netherlands,220
+2001,Netherlands,220
+2002,Netherlands,218
+2003,Netherlands,219
+2004,Netherlands,220
+2005,Netherlands,215
+2006,Netherlands,210
+2007,Netherlands,208
+2008,Netherlands,208
+2009,Netherlands,202
+2010,Netherlands,214
+2011,Netherlands,200
+2012,Netherlands,196
+2013,Netherlands,195
+2014,Netherlands,188
+2015,Netherlands,196
+2016,Netherlands,195
+2017,Netherlands,193
+2018,Netherlands,188
+1850,Thailand,2.85
+1851,Thailand,3.14
+1852,Thailand,3.42
+1853,Thailand,3.7
+1854,Thailand,3.98
+1855,Thailand,4.25
+1856,Thailand,4.51
+1857,Thailand,4.77
+1858,Thailand,5.02
+1859,Thailand,5.27
+1860,Thailand,5.51
+1861,Thailand,5.74
+1862,Thailand,5.97
+1863,Thailand,6.2
+1864,Thailand,6.42
+1865,Thailand,6.63
+1866,Thailand,6.84
+1867,Thailand,7.05
+1868,Thailand,7.24
+1869,Thailand,7.44
+1870,Thailand,7.63
+1871,Thailand,7.81
+1872,Thailand,8.01
+1873,Thailand,8.2
+1874,Thailand,8.39
+1875,Thailand,8.58
+1876,Thailand,8.76
+1877,Thailand,8.94
+1878,Thailand,9.11
+1879,Thailand,9.26
+1880,Thailand,9.41
+1881,Thailand,9.54
+1882,Thailand,9.67
+1883,Thailand,9.79
+1884,Thailand,9.91
+1885,Thailand,10
+1886,Thailand,10.1
+1887,Thailand,10.2
+1888,Thailand,10.3
+1889,Thailand,10.4
+1890,Thailand,10.9
+1891,Thailand,11
+1892,Thailand,11.1
+1893,Thailand,11.2
+1894,Thailand,11.4
+1895,Thailand,11.5
+1896,Thailand,11.7
+1897,Thailand,11.9
+1898,Thailand,12.1
+1899,Thailand,12.3
+1900,Thailand,12.5
+1901,Thailand,12.7
+1902,Thailand,13
+1903,Thailand,13.2
+1904,Thailand,13.5
+1905,Thailand,13.9
+1906,Thailand,14.2
+1907,Thailand,14.6
+1908,Thailand,15
+1909,Thailand,15.4
+1910,Thailand,15.9
+1911,Thailand,16.4
+1912,Thailand,17
+1913,Thailand,17.6
+1914,Thailand,18.3
+1915,Thailand,19.1
+1916,Thailand,19.9
+1917,Thailand,20.7
+1918,Thailand,21.5
+1919,Thailand,22.4
+1920,Thailand,23.3
+1921,Thailand,24.3
+1922,Thailand,25.7
+1923,Thailand,27.3
+1924,Thailand,29
+1925,Thailand,30.8
+1926,Thailand,32.6
+1927,Thailand,34.2
+1928,Thailand,35.6
+1929,Thailand,36.6
+1930,Thailand,37.2
+1931,Thailand,37.4
+1932,Thailand,37.5
+1933,Thailand,37.4
+1934,Thailand,37.1
+1935,Thailand,36.8
+1936,Thailand,36.5
+1937,Thailand,36.2
+1938,Thailand,35.9
+1939,Thailand,35.8
+1940,Thailand,35.8
+1941,Thailand,35.9
+1942,Thailand,36.1
+1943,Thailand,36.4
+1944,Thailand,36.7
+1945,Thailand,37.1
+1946,Thailand,37.5
+1947,Thailand,38
+1948,Thailand,38.4
+1949,Thailand,38.9
+1950,Thailand,40.2
+1951,Thailand,40.9
+1952,Thailand,42.1
+1953,Thailand,43.8
+1954,Thailand,45.7
+1955,Thailand,47.7
+1956,Thailand,49.7
+1957,Thailand,51.8
+1958,Thailand,53.6
+1959,Thailand,55.4
+1960,Thailand,57.2
+1961,Thailand,57.5
+1962,Thailand,61.1
+1963,Thailand,62.3
+1964,Thailand,64.4
+1965,Thailand,65.3
+1966,Thailand,73.2
+1967,Thailand,73.1
+1968,Thailand,81.7
+1969,Thailand,82
+1970,Thailand,81.3
+1971,Thailand,85.5
+1972,Thailand,86.7
+1973,Thailand,94
+1974,Thailand,92.3
+1975,Thailand,97.8
+1976,Thailand,103
+1977,Thailand,110
+1978,Thailand,115
+1979,Thailand,116
+1980,Thailand,120
+1981,Thailand,120
+1982,Thailand,121
+1983,Thailand,127
+1984,Thailand,132
+1985,Thailand,139
+1986,Thailand,139
+1987,Thailand,148
+1988,Thailand,163
+1989,Thailand,177
+1990,Thailand,186
+1991,Thailand,199
+1992,Thailand,211
+1993,Thailand,225
+1994,Thailand,240
+1995,Thailand,260
+1996,Thailand,279
+1997,Thailand,287
+1998,Thailand,264
+1999,Thailand,279
+2000,Thailand,282
+2001,Thailand,298
+2002,Thailand,311
+2003,Thailand,334
+2004,Thailand,354
+2005,Thailand,361
+2006,Thailand,367
+2007,Thailand,376
+2008,Thailand,378
+2009,Thailand,398
+2010,Thailand,419
+2011,Thailand,414
+2012,Thailand,434
+2013,Thailand,437
+2014,Thailand,448
+2015,Thailand,453
+2016,Thailand,462
+2017,Thailand,475
+2018,Thailand,482
+1850,United Kingdom,158
+1851,United Kingdom,152
+1852,United Kingdom,152
+1853,United Kingdom,152
+1854,United Kingdom,176
+1855,United Kingdom,168
+1856,United Kingdom,178
+1857,United Kingdom,176
+1858,United Kingdom,174
+1859,United Kingdom,190
+1860,United Kingdom,208
+1861,United Kingdom,216
+1862,United Kingdom,212
+1863,United Kingdom,223
+1864,United Kingdom,238
+1865,United Kingdom,250
+1866,United Kingdom,258
+1867,United Kingdom,264
+1868,United Kingdom,261
+1869,United Kingdom,273
+1870,United Kingdom,279
+1871,United Kingdom,294
+1872,United Kingdom,308
+1873,United Kingdom,319
+1874,United Kingdom,313
+1875,United Kingdom,329
+1876,United Kingdom,330
+1877,United Kingdom,336
+1878,United Kingdom,333
+1879,United Kingdom,336
+1880,United Kingdom,362
+1881,United Kingdom,379
+1882,United Kingdom,383
+1883,United Kingdom,397
+1884,United Kingdom,390
+1885,United Kingdom,388
+1886,United Kingdom,386
+1887,United Kingdom,396
+1888,United Kingdom,410
+1889,United Kingdom,424
+1890,United Kingdom,431
+1891,United Kingdom,442
+1892,United Kingdom,438
+1893,United Kingdom,405
+1894,United Kingdom,454
+1895,United Kingdom,461
+1896,United Kingdom,474
+1897,United Kingdom,487
+1898,United Kingdom,490
+1899,United Kingdom,520
+1900,United Kingdom,527
+1901,United Kingdom,520
+1902,United Kingdom,537
+1903,United Kingdom,542
+1904,United Kingdom,546
+1905,United Kingdom,553
+1906,United Kingdom,570
+1907,United Kingdom,591
+1908,United Kingdom,581
+1909,United Kingdom,586
+1910,United Kingdom,590
+1911,United Kingdom,602
+1912,United Kingdom,577
+1913,United Kingdom,619
+1914,United Kingdom,603
+1915,United Kingdom,609
+1916,United Kingdom,626
+1917,United Kingdom,620
+1918,United Kingdom,585
+1919,United Kingdom,575
+1920,United Kingdom,590
+1921,United Kingdom,439
+1922,United Kingdom,550
+1923,United Kingdom,580
+1924,United Kingdom,604
+1925,United Kingdom,580
+1926,United Kingdom,378
+1927,United Kingdom,603
+1928,United Kingdom,577
+1929,United Kingdom,602
+1930,United Kingdom,584
+1931,United Kingdom,556
+1932,United Kingdom,541
+1933,United Kingdom,538
+1934,United Kingdom,571
+1935,United Kingdom,578
+1936,United Kingdom,604
+1937,United Kingdom,620
+1938,United Kingdom,602
+1939,United Kingdom,611
+1940,United Kingdom,635
+1941,United Kingdom,627
+1942,United Kingdom,628
+1943,United Kingdom,616
+1944,United Kingdom,605
+1945,United Kingdom,583
+1946,United Kingdom,604
+1947,United Kingdom,632
+1948,United Kingdom,649
+1949,United Kingdom,662
+1950,United Kingdom,680
+1951,United Kingdom,728
+1952,United Kingdom,715
+1953,United Kingdom,732
+1954,United Kingdom,751
+1955,United Kingdom,781
+1956,United Kingdom,785
+1957,United Kingdom,787
+1958,United Kingdom,778
+1959,United Kingdom,773
+1960,United Kingdom,814
+1961,United Kingdom,825
+1962,United Kingdom,831
+1963,United Kingdom,845
+1964,United Kingdom,854
+1965,United Kingdom,872
+1966,United Kingdom,872
+1967,United Kingdom,850
+1968,United Kingdom,867
+1969,United Kingdom,892
+1970,United Kingdom,919
+1971,United Kingdom,924
+1972,United Kingdom,899
+1973,United Kingdom,918
+1974,United Kingdom,872
+1975,United Kingdom,862
+1976,United Kingdom,864
+1977,United Kingdom,864
+1978,United Kingdom,865
+1979,United Kingdom,907
+1980,United Kingdom,826
+1981,United Kingdom,805
+1982,United Kingdom,786
+1983,United Kingdom,784
+1984,United Kingdom,746
+1985,United Kingdom,790
+1986,United Kingdom,806
+1987,United Kingdom,807
+1988,United Kingdom,805
+1989,United Kingdom,815
+1990,United Kingdom,801
+1991,United Kingdom,810
+1992,United Kingdom,789
+1993,United Kingdom,770
+1994,United Kingdom,761
+1995,United Kingdom,754
+1996,United Kingdom,776
+1997,United Kingdom,751
+1998,United Kingdom,749
+1999,United Kingdom,719
+2000,United Kingdom,718
+2001,United Kingdom,721
+2002,United Kingdom,701
+2003,United Kingdom,708
+2004,United Kingdom,705
+2005,United Kingdom,697
+2006,United Kingdom,690
+2007,United Kingdom,678
+2008,United Kingdom,658
+2009,United Kingdom,601
+2010,United Kingdom,616
+2011,United Kingdom,569
+2012,United Kingdom,585
+2013,United Kingdom,572
+2014,United Kingdom,531
+2015,United Kingdom,513
+2016,United Kingdom,488
+2017,United Kingdom,476
+2018,United Kingdom,467
+1850,United States,220
+1851,United States,232
+1852,United States,238
+1853,United States,247
+1854,United States,255
+1855,United States,267
+1856,United States,273
+1857,United States,278
+1858,United States,281
+1859,United States,291
+1860,United States,298
+1861,United States,297
+1862,United States,304
+1863,United States,322
+1864,United States,333
+1865,United States,336
+1866,United States,340
+1867,United States,372
+1868,United States,395
+1869,United States,423
+1870,United States,437
+1871,United States,451
+1872,United States,505
+1873,United States,539
+1874,United States,536
+1875,United States,547
+1876,United States,550
+1877,United States,588
+1878,United States,589
+1879,United States,661
+1880,United States,716
+1881,United States,745
+1882,United States,803
+1883,United States,847
+1884,United States,881
+1885,United States,896
+1886,United States,933
+1887,United States,980
+1888,United States,1120
+1889,United States,1050
+1890,United States,1150
+1891,United States,1190
+1892,United States,1210
+1893,United States,1230
+1894,United States,1200
+1895,United States,1270
+1896,United States,1280
+1897,United States,1310
+1898,United States,1360
+1899,United States,1450
+1900,United States,1500
+1901,United States,1580
+1902,United States,1630
+1903,United States,1780
+1904,United States,1790
+1905,United States,1910
+1906,United States,1980
+1907,United States,2170
+1908,United States,2030
+1909,United States,2170
+1910,United States,2290
+1911,United States,2290
+1912,United States,2400
+1913,United States,2520
+1914,United States,2410
+1915,United States,2480
+1916,United States,2650
+1917,United States,2830
+1918,United States,2920
+1919,United States,2650
+1920,United States,2930
+1921,United States,2610
+1922,United States,2620
+1923,United States,3090
+1924,United States,2890
+1925,United States,2930
+1926,United States,3080
+1927,United States,3030
+1928,United States,2990
+1929,United States,3130
+1930,United States,2900
+1931,United States,2640
+1932,United States,2400
+1933,United States,2490
+1934,United States,2580
+1935,United States,2630
+1936,United States,2850
+1937,United States,2930
+1938,United States,2650
+1939,United States,2810
+1940,United States,3030
+1941,United States,3220
+1942,United States,3420
+1943,United States,3530
+1944,United States,3760
+1945,United States,3730
+1946,United States,3690
+1947,United States,3990
+1948,United States,4140
+1949,United States,3770
+1950,United States,4130
+1951,United States,4230
+1952,United States,4210
+1953,United States,4290
+1954,United States,4180
+1955,United States,4460
+1956,United States,4640
+1957,United States,4630
+1958,United States,4530
+1959,United States,4620
+1960,United States,4700
+1961,United States,4700
+1962,United States,4810
+1963,United States,4940
+1964,United States,5080
+1965,United States,5210
+1966,United States,5390
+1967,United States,5560
+1968,United States,5700
+1969,United States,5910
+1970,United States,6230
+1971,United States,6210
+1972,United States,6440
+1973,United States,6710
+1974,United States,6500
+1975,United States,6230
+1976,United States,6500
+1977,United States,6620
+1978,United States,6790
+1979,United States,6860
+1980,United States,6610
+1981,United States,6400
+1982,United States,6040
+1983,United States,6060
+1984,United States,6270
+1985,United States,6240
+1986,United States,6210
+1987,United States,6420
+1988,United States,6660
+1989,United States,6730
+1990,United States,6600
+1991,United States,6530
+1992,United States,6640
+1993,United States,6760
+1994,United States,6850
+1995,United States,6940
+1996,United States,7130
+1997,United States,7180
+1998,United States,7230
+1999,United States,7270
+2000,United States,7410
+2001,United States,7310
+2002,United States,7340
+2003,United States,7380
+2004,United States,7500
+2005,United States,7510
+2006,United States,7430
+2007,United States,7520
+2008,United States,7310
+2009,United States,6840
+2010,United States,7070
+2011,United States,6910
+2012,United States,6670
+2013,United States,6860
+2014,United States,6920
+2015,United States,6770
+2016,United States,6610
+2017,United States,6570
+2018,United States,6760
+1850,OECD,619.18
+1851,OECD,630.09
+1852,OECD,644.59
+1853,OECD,662.42
+1854,OECD,707.82
+1855,OECD,722.59
+1856,OECD,746.64
+1857,OECD,756.29
+1858,OECD,765.49
+1859,OECD,793
+1860,OECD,829.41
+1861,OECD,851.21
+1862,OECD,867.68
+1863,OECD,905.71
+1864,OECD,946.72
+1865,OECD,978.53
+1866,OECD,1000.32
+1867,OECD,1054.3
+1868,OECD,1085.88
+1869,OECD,1137.87
+1870,OECD,1164.38
+1871,OECD,1213.14
+1872,OECD,1310.34
+1873,OECD,1377.09
+1874,OECD,1344.2
+1875,OECD,1414.59
+1876,OECD,1437.21
+1877,OECD,1480.99
+1878,OECD,1494.92
+1879,OECD,1593.41
+1880,OECD,1729.1
+1881,OECD,1782.01
+1882,OECD,1871.16
+1883,OECD,1960.71
+1884,OECD,1999.86
+1885,OECD,2024.85
+1886,OECD,2068.63
+1887,OECD,2151.29
+1888,OECD,2347.45
+1889,OECD,2322.06
+1890,OECD,2452.93
+1891,OECD,2541.5
+1892,OECD,2564.21
+1893,OECD,2573.74
+1894,OECD,2635.62
+1895,OECD,2741.63
+1896,OECD,2810.17
+1897,OECD,2898.2
+1898,OECD,2992.84
+1899,OECD,3158.28
+1900,OECD,3274
+1901,OECD,3358.23
+1902,OECD,3423.4
+1903,OECD,3632.45
+1904,OECD,3674.06
+1905,OECD,3847.62
+1906,OECD,3963.24
+1907,OECD,4306.15
+1908,OECD,4201.41
+1909,OECD,4341.97
+1910,OECD,4499.01
+1911,OECD,4555.53
+1912,OECD,4732.45
+1913,OECD,4996.53
+1914,OECD,4713.85
+1915,OECD,4706.65
+1916,OECD,4966.35
+1917,OECD,5157.25
+1918,OECD,5182.34
+1919,OECD,4719.72
+1920,OECD,5226.6
+1921,OECD,4789.06
+1922,OECD,4942.97
+1923,OECD,5383.95
+1924,OECD,5379.99
+1925,OECD,5415.45
+1926,OECD,5341.33
+1927,OECD,5673.2
+1928,OECD,5630.36
+1929,OECD,5920.9
+1930,OECD,5552.4
+1931,OECD,5130
+1932,OECD,4762.48
+1933,OECD,4905.67
+1934,OECD,5133.25
+1935,OECD,5257.55
+1936,OECD,5576.57
+1937,OECD,5844.69
+1938,OECD,5571.64
+1939,OECD,5800.32
+1940,OECD,6128.27
+1941,OECD,6321.08
+1942,OECD,6555.44
+1943,OECD,6698.08
+1944,OECD,6752.89
+1945,OECD,6005.56
+1946,OECD,6349.23
+1947,OECD,6884.3
+1948,OECD,7209.56
+1949,OECD,6987.42
+1950,OECD,7482.61
+1951,OECD,7851.56
+1952,OECD,7908.61
+1953,OECD,8087.23
+1954,OECD,8138.54
+1955,OECD,8644.88
+1956,OECD,9040.07
+1957,OECD,9170.82
+1958,OECD,9093.51
+1959,OECD,9278.37
+1960,OECD,9634.15
+1961,OECD,9820.86
+1962,OECD,10155.59
+1963,OECD,10574.12
+1964,OECD,10960.89
+1965,OECD,11252.05
+1966,OECD,11601.18
+1967,OECD,11968.81
+1968,OECD,12447
+1969,OECD,13042.12
+1970,OECD,13701.92
+1971,OECD,13829.31
+1972,OECD,14289.9
+1973,OECD,14887.37
+1974,OECD,14653.22
+1975,OECD,14200.81
+1976,OECD,14857.55
+1977,OECD,14977.3
+1978,OECD,15312.83
+1979,OECD,15671.69
+1980,OECD,15339.73
+1981,OECD,14864.29
+1982,OECD,14384.07
+1983,OECD,14276.15
+1984,OECD,14611.14
+1985,OECD,14699.31
+1986,OECD,14638.61
+1987,OECD,14911.58
+1988,OECD,15286.31
+1989,OECD,15565.07
+1990,OECD,15409.25
+1991,OECD,15354.13
+1992,OECD,15396.64
+1993,OECD,15478.03
+1994,OECD,15690.35
+1995,OECD,15918.46
+1996,OECD,16357.02
+1997,OECD,16416.34
+1998,OECD,16389.59
+1999,OECD,16400.19
+2000,OECD,16663.79
+2001,OECD,16566.87
+2002,OECD,16644.58
+2003,OECD,16817.94
+2004,OECD,16987.93
+2005,OECD,17005.08
+2006,OECD,16942.87
+2007,OECD,17142.17
+2008,OECD,16821.77
+2009,OECD,15865.53
+2010,OECD,16324.05
+2011,OECD,16121.9
+2012,OECD,15899.91
+2013,OECD,16029.71
+2014,OECD,15878.54
+2015,OECD,15749.72
+2016,OECD,15602.58
+2017,OECD,15619.26
+2018,OECD,15698.58
