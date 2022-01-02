@@ -1,49 +1,36 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Ethereum Price",
     "title": {
-        "text": "UK Carbon Monoxide Emissions",
-        "subtitle": "Weekly average (Mol/M^2): https://emissions-api.org/",
+        "text": "Ethereum Price - 2021",
+        "subtitle": "Historical Weekly close price: coinapi.io",
         "subtitleFontStyle": "italic",
         "subtitleFontSize": 10,
-        "anchor": "start",
-        "color": "black"
+        "anchor": "start"
     },
     "data": {
-        "url": "https://api.v2.emissions-api.org/api/v2/carbonmonoxide/statistics.json?country=GB&interval=week&end=2021-11-01",
+        "url": "https://rest.coinapi.io/v1/ohlcv/ETH/GBP/history?period_id=7DAY&time_start=2021-01-01T00:00:00&limit=100&include_empty_items=false&apikey=00C03EA2-0BB9-478C-9EB5-C439499E8730",
         "format": {
             "type": "json"
         }
     },
+    "height": 450,
+    "width": 750,
     "mark": {
         "type": "line",
         "point": false,
-        "clip": true,
-        "color": "blue"
+        "color": "#f4c245"
     },
-    "height": 300,
-    "width": 300,
     "encoding": {
         "x": {
-            "field": "time.interval_start",
-            "title": null,
-            "axis": {
-                "grid": false
-            },
+            "field": "time_period_start",
+            "title": "Date",
             "type": "temporal"
         },
         "y": {
-            "field": "value.average",
-            "type": "quantitative",
-            "title": null,
-            "axis": {
-                "grid": false
-            },
-            "scale": {
-                "domain": [
-                    0.01,
-                    0.05
-                ]
-            }
+            "field": "price_close",
+            "title": "Price (£)",
+            "type": "quantitative"
         }
     }
 }
