@@ -1,0 +1,97 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+        "url": "https://raw.githubusercontent.com/willdiaz635/willdiaz635.github.io/main/item2.csv"
+    },
+    "height": 450,
+    "width": 750,
+    "title": {
+        "text": "Linear regression: Pollution exposure on attributable deaths",
+        "subtitle": "Source: OECD",
+        "subtitleFontStyle": "italic"
+    },
+    "layer": [
+        {
+            "mark": {
+                "type": "point",
+                "tooltip": true,
+                "color": "orange"
+            },
+            "encoding": {
+                "x": {
+                    "field": "Exposure",
+                    "title": "Exposure",
+                    "type": "quantitative",
+                    "scale": {
+                        "domain": [
+                            0,
+                            90
+                        ]
+                    },
+                    "axis": {
+                        "domain": true
+                    }
+                },
+                "y": {
+                    "field": "Effects",
+                    "title": "Effects",
+                    "type": "quantitative",
+                    "scale": {
+                        "domain": [
+                            0,
+                            1400
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "mark": {
+                "type": "line",
+                "color": "navy"
+            },
+            "transform": [
+                {
+                    "regression": "Exposure",
+                    "on": "Effects"
+                }
+            ],
+            "encoding": {
+                "x": {
+                    "field": "Exposure",
+                    "type": "quantitative"
+                },
+                "y": {
+                    "field": "Effects",
+                    "type": "quantitative"
+                }
+            }
+        },
+        {
+            "transform": [
+                {
+                    "regression": "Exposure",
+                    "on": "Effects",
+                    "params": true
+                },
+                {
+                    "calculate": "'R²: '+format(datum.rSquared, '.2f')",
+                    "as": "R2"
+                }
+            ],
+            "mark": {
+                "type": "text",
+                "color": "orange",
+                "x": "width",
+                "align": "right",
+                "y": -10
+            },
+            "encoding": {
+                "text": {
+                    "type": "nominal",
+                    "field": "R2"
+                }
+            }
+        }
+    ]
+}
