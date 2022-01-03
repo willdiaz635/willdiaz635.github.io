@@ -22,7 +22,7 @@
             "encoding": {
                 "x": {
                     "field": "Exposure",
-                    "title": "Exposure",
+                    "title": "Exposure to PM2.5 (air pollutant that poses the greatest risk to health globally), Micrograms per cubic metre",
                     "type": "quantitative",
                     "scale": {
                         "domain": [
@@ -36,7 +36,7 @@
                 },
                 "y": {
                     "field": "Effects",
-                    "title": "Effects",
+                    "title": "Mortality, Per 1 000 000 inhabitants",
                     "type": "quantitative",
                     "scale": {
                         "domain": [
