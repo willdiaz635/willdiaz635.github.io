@@ -1,46 +1,46 @@
-﻿Country,Region ,HDI,GDP per capita,CO2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Argentina,Latin America,0.83,23293,3.473,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Bahrain,Middle East,0.84,47503,20.546,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Belgium,EU,0.92,52624,7.226,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Bolivia,Latin America,0.70,8863,1.773,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Brazil,BRICS Nations,0.76,15020,2.199,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Burundi,Sub Saharan Africa,0.42,780,0.051,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Cambodia,Southeast Asia,0.58,4259,0.917,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Cameroon,Sub Saharan Africa,0.56,3801,0.260,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Chile,Latin America,0.85,24740,4.246,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-China,BRICS Nations,0.76,15497,7.412,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Colombia,Latin America,0.76,14866,1.751,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Croatia,EU,0.84,28960,4.137,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ecuador,Latin America,0.76,11839,1.753,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-France,EU,0.89,46621,4.238,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Germany,EU,0.94,55142,7.690,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-India,BRICS Nations,0.65,6675,1.769,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Indonesia,Southeast Asia,0.71,11645,2.155,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Israel,Middle East,0.91,40690,6.510,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Italy,EU,0.88,43119,5.025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Jordan,Middle East,0.72,10254,2.498,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Kenya,Sub Saharan Africa,0.58,4443,0.300,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Kuwait,Middle East,0.81,51691,20.825,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Laos,Southeast Asia,0.60,7775,4.652,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Liberia,Sub Saharan Africa,0.47,1581,0.200,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Malaysia,Southeast Asia,0.80,28240,8.423,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Myanmar,Southeast Asia,0.58,4575,0.668,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Netherlands,EU,0.93,57901,8.060,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Niger,Sub Saharan Africa,0.38,1229,0.070,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Oman,Middle East,0.83,29125,12.173,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Paraguay,Latin America,0.72,13136,1.061,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Philippines,Southeast Asia,0.71,8721,1.241,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Qatar,Middle East,0.85,93154,37.019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Russia,BRICS Nations,0.82,28682,10.807,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Saudi Arabia,Middle East,0.86,48735,17.967,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Sierra Leone,Sub Saharan Africa,0.44,1694,0.110,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-South Africa,BRICS Nations,0.71,14209,7.620,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Spain,EU,0.89,40687,4.468,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Sweden,EU,0.94,53553,3.826,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Thailand,Southeast Asia,0.77,18530,3.693,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-UAE,Middle East,0.53,2176,0.107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Uganda,Sub Saharan Africa,0.87,68576,15.193,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Uruguay,Latin America,0.81,23588,1.681,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Venezuela,Latin America,0.73,16056,2.975,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Vietnam,Southeast Asia,0.69,7768,2.613,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Zambia,Sub Saharan Africa,0.59,3606,0.358,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+﻿Country,Region ,HDI,GDP per capita,CO2
+Argentina,Latin America,0.83,23293,3.473
+Bahrain,Middle East,0.84,47503,20.546
+Belgium,EU,0.92,52624,7.226
+Bolivia,Latin America,0.7,8863,1.773
+Brazil,BRICS Nations,0.76,15020,2.199
+Burundi,Sub Saharan Africa,0.42,780,0.051
+Cambodia,Southeast Asia,0.58,4259,0.917
+Cameroon,Sub Saharan Africa,0.56,3801,0.26
+Chile,Latin America,0.85,24740,4.246
+China,BRICS Nations,0.76,15497,7.412
+Colombia,Latin America,0.76,14866,1.751
+Croatia,EU,0.84,28960,4.137
+Ecuador,Latin America,0.76,11839,1.753
+France,EU,0.89,46621,4.238
+Germany,EU,0.94,55142,7.69
+India,BRICS Nations,0.65,6675,1.769
+Indonesia,Southeast Asia,0.71,11645,2.155
+Israel,Middle East,0.91,40690,6.51
+Italy,EU,0.88,43119,5.025
+Jordan,Middle East,0.72,10254,2.498
+Kenya,Sub Saharan Africa,0.58,4443,0.3
+Kuwait,Middle East,0.81,51691,20.825
+Laos,Southeast Asia,0.6,7775,4.652
+Liberia,Sub Saharan Africa,0.47,1581,0.2
+Malaysia,Southeast Asia,0.8,28240,8.423
+Myanmar,Southeast Asia,0.58,4575,0.668
+Netherlands,EU,0.93,57901,8.06
+Niger,Sub Saharan Africa,0.38,1229,0.07
+Oman,Middle East,0.83,29125,12.173
+Paraguay,Latin America,0.72,13136,1.061
+Philippines,Southeast Asia,0.71,8721,1.241
+Qatar,Middle East,0.85,93154,37.019
+Russia,BRICS Nations,0.82,28682,10.807
+Saudi Arabia,Middle East,0.86,48735,17.967
+Sierra Leone,Sub Saharan Africa,0.44,1694,0.11
+South Africa,BRICS Nations,0.71,14209,7.62
+Spain,EU,0.89,40687,4.468
+Sweden,EU,0.94,53553,3.826
+Thailand,Southeast Asia,0.77,18530,3.693
+UAE,Middle East,0.53,2176,15.193
+Uganda,Sub Saharan Africa,0.87,68576,0.107
+Uruguay,Latin America,0.81,23588,1.681
+Venezuela,Latin America,0.73,16056,2.975
+Vietnam,Southeast Asia,0.69,7768,2.613
+Zambia,Sub Saharan Africa,0.59,3606,0.358
