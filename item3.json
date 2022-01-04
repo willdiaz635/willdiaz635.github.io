@@ -70,7 +70,7 @@
                 "y": {
                     "field": "CO2",
                     "type": "quantitative",
-                    "title": "Annual Carbon Dioxide Emissions (tonnes per capita)",
+                    "title": "Annual Carbon Dioxide Emissions (tonnes per capita) (bar)",
                     "axis": {
                         "grid": true
                     },
@@ -93,6 +93,7 @@
                 "y": {
                     "field": "HDI",
                     "type": "quantitative",
+                    "title": "Human Development Index (point)",
                     "axis": {
                         "grid": false
                     },
