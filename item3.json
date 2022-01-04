@@ -1,0 +1,92 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json",
+    "data": {
+        "url": "https://raw.githubusercontent.com/willdiaz635/willdiaz635.github.io/main/item3.csv"
+    },
+    "width": 800,
+    "height": 450,
+    "layer": [
+        {
+            "mark": "bar",
+            "encoding": {
+                "x": {
+                    "field": "country/region",
+                    "type": "nominal",
+                    "scale": {
+                        "domain": [
+                            "Sub-Saharan-Africa",
+                            "Niger",
+                            "Uganda",
+                            "Sierra Leone",
+                            "Latin America",
+                            "Colombia",
+                            "Chile",
+                            "Paraguay",
+                            "EU",
+                            "Spain",
+                            "France",
+                            "Sweden",
+                            "Southeast Asia",
+                            "Thailand",
+                            "Indonesia",
+                            "Vietnam",
+                            "Middle East",
+                            "Qatar",
+                            "UAE",
+                            "Bahrain",
+                            "BRICS",
+                            "Brazil",
+                            "Russia",
+                            "India",
+                            "China",
+                            "South Africa"
+                        ]
+                    }
+                },
+                "y": {
+                    "field": "co2 emissions per capita",
+                    "type": "quantitative",
+                    "axis": {
+                        "grid": false
+                    },
+                    "scale": {
+                        "domain": [
+                            0,
+                            25
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "mark": "point",
+            "encoding": {
+                "x": {
+                    "field": "country/region",
+                    "type": "ordinal"
+                },
+                "y": {
+                    "field": "HDI",
+                    "type": "quantitative",
+                    "axis": {
+                        "grid": false
+                    },
+                    "scale": {
+                        "domain": [
+                            0,
+                            1
+                        ]
+                    }
+                },
+                "color": {
+                    "value": "orange"
+                }
+            }
+        }
+    ],
+    "resolve": {
+        "scale": {
+            "y": "independent"
+        }
+    }
+}
