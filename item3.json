@@ -3,7 +3,7 @@
     "data": {
         "url": "https://raw.githubusercontent.com/willdiaz635/willdiaz635.github.io/main/item3.csv"
     },
-    "width": 800,
+    "width": 850,
     "height": 450,
     "layer": [
         {
@@ -14,27 +14,46 @@
                     "type": "nominal",
                     "scale": {
                         "domain": [
-                            "Sub-Saharan-Africa",
                             "Niger",
                             "Uganda",
                             "Sierra Leone",
-                            "Latin America",
+                            "Cameroon",
+                            "Kenya",
+                            "Burundi",
+                            "Zambia",
+                            "Liberia",
                             "Colombia",
                             "Chile",
                             "Paraguay",
-                            "EU",
+                            "Uruguay",
+                            "Ecuador",
+                            "Venezuela",
+                            "Argentina",
+                            "Bolivia",
                             "Spain",
                             "France",
                             "Sweden",
-                            "Southeast Asia",
+                            "Netherlands",
+                            "Germany",
+                            "Croatia",
+                            "Italy",
+                            "Belgium",
                             "Thailand",
                             "Indonesia",
                             "Vietnam",
-                            "Middle East",
+                            "Cambodia",
+                            "Laos",
+                            "Malaysia",
+                            "Philippines",
+                            "Mayanmar",
                             "Qatar",
                             "UAE",
                             "Bahrain",
-                            "BRICS",
+                            "Oman",
+                            "Saudi Arabia",
+                            "Kuwait",
+                            "Jordan",
+                            "Israel",
                             "Brazil",
                             "Russia",
                             "India",
@@ -47,12 +66,12 @@
                     "field": "co2 emissions per capita",
                     "type": "quantitative",
                     "axis": {
-                        "grid": false
+                        "grid": true
                     },
                     "scale": {
                         "domain": [
                             0,
-                            25
+                            26
                         ]
                     }
                 }
