@@ -3,15 +3,20 @@
     "data": {
         "url": "https://raw.githubusercontent.com/willdiaz635/willdiaz635.github.io/main/item3.csv"
     },
-    "width": 850,
-    "height": 450,
+    "width": 950,
+    "height": 400,
+    "title": {
+        "text": "CO2 emissions, HDI, and Income per Capita",
+        "subtitle": "Sources: WorldPopulationReview (scraped), OurWorldinData (csv download), WorldBank (csv download)"
+    },
     "layer": [
         {
             "mark": "bar",
             "encoding": {
                 "x": {
-                    "field": "country/region",
+                    "field": "Country",
                     "type": "nominal",
+                    "title": "Country",
                     "scale": {
                         "domain": [
                             "Niger",
@@ -63,15 +68,16 @@
                     }
                 },
                 "y": {
-                    "field": "co2 emissions per capita",
+                    "field": "CO2",
                     "type": "quantitative",
+                    "title": "Annual Carbon Dioxide Emissions (tonnes per capita)",
                     "axis": {
                         "grid": true
                     },
                     "scale": {
                         "domain": [
                             0,
-                            26
+                            40
                         ]
                     }
                 }
@@ -81,7 +87,7 @@
             "mark": "point",
             "encoding": {
                 "x": {
-                    "field": "country/region",
+                    "field": "Country",
                     "type": "ordinal"
                 },
                 "y": {
