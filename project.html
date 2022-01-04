@@ -15,7 +15,7 @@
 
     <center>
         <header>
-            <h1><span id="project">Project:</span> Air Pollution and Health</h1>
+            <h1><span id="project">Project:</span> Pollution and Health</h1>
             <div id="topdiv">
                 <button class="button1" onclick="location.href='https://willdiaz635.github.io/'">Home</button>
                 <button class="button1"
@@ -81,13 +81,13 @@
             </h3>
             <p>
             <p class="description">
-                The low R squared value in this visualisation signifies a very weak positive
-                correlation between pollution exposure and pollution-attributable deaths in a population. In some sense,
-                I don't think this is surprising, as given the complexities and multitide of entire countries
-                socioeconomically and developmentally, I would expect many other variables to be at play. Two examples
-                within the data and my qualitative assessments: Niger has one of the highest exposures but lowest
-                attributable-death rates. This doesn't mean pollution doesn't cause death here, but if we think about
-                Niger, it is highly under-developed, with only around 50% of the population having access to clean
+                The low R squared value in this visualisation signifies a positive but basically insignificant
+                positive relationship between pollution exposure and pollution-attributable deaths in a population. In
+                some sense, I don't think this is surprising, as given the complexities and multitide of entire
+                countries socioeconomically and developmentally, I would expect many other variables to be at play. Two
+                examples within the data and my qualitative assessments: Niger has one of the highest exposures but
+                lowest attributable-death rates. This doesn't mean pollution doesn't cause death here, but if we think
+                about Niger, it is highly under-developed, with only around 50% of the population having access to clean
                 water. As such, out of every 1,000,000 inhabitants, there is likely to be many other variables causing
                 death. Secondly, there is undoubtedly a cluster of Central and Eastern European nations with farily low
                 exposure levels but high attributable-death rates. This may compliment the Niger observation - take
@@ -109,6 +109,25 @@
                     <script>
                         var myChart19 = "item2.json";
                         vegaEmbed('#chart19', myChart19);
+                    </script>
+                </div>
+            </div>
+        </div>
+
+        <hr>
+
+        <div class="container" id="item3">
+            <h3 id="item2title">Item 3: Greenhouse Gas emissions | HDI | GDP/capita</h3>
+            <p class="description">
+                To try and understand the relationship between pollution and health, one needs to look at more aspects
+                shaping countries. Through doing this, one can learn, for example, how some heavily polluting countries
+                have better health, and some minimally polluting countries have poor health.
+            </p>
+            <div class="div20">
+                <div class="chart" id="chart20">
+                    <script>
+                        var myChart20 = ".json";
+                        vegaEmbed('#chart20', myChart20);
                     </script>
                 </div>
             </div>
