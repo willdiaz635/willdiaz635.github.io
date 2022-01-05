@@ -1,0 +1,97 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+        "url": "https://raw.githubusercontent.com/willdiaz635/willdiaz635.github.io/main/item4.csv"
+    },
+    "height": 400,
+    "width": 900,
+    "title": {
+        "text": "Linear regression: Total Historical Emissions on Life Expectancy",
+        "subtitle": "Source: OurWorldInData (csv download)",
+        "subtitleFontStyle": "italic"
+    },
+    "layer": [
+        {
+            "mark": {
+                "type": "point",
+                "tooltip": true,
+                "color": "orange"
+            },
+            "encoding": {
+                "x": {
+                    "field": "Total Co2 emissions over time (tonnes)",
+                    "title": "Total historical Co2 emissions (tonnes)",
+                    "type": "quantitative",
+                    "axis": {
+                        "domain": true
+                    },
+                    "scale": {
+                        "domain": [
+                            0,
+                            420000000000
+                        ]
+                    }
+                },
+                "y": {
+                    "field": "Life Expectancy",
+                    "title": "Current Life Expectancy",
+                    "type": "quantitative",
+                    "scale": {
+                        "domain": [
+                            50,
+                            90
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "mark": {
+                "type": "line",
+                "color": "navy"
+            },
+            "transform": [
+                {
+                    "regression": "Total Co2 emissions over time (tonnes)",
+                    "on": "Life Expectancy"
+                }
+            ],
+            "encoding": {
+                "x": {
+                    "field": "Total Co2 emissions over time (tonnes)",
+                    "type": "quantitative"
+                },
+                "y": {
+                    "field": "Life Expectancy",
+                    "type": "quantitative"
+                }
+            }
+        },
+        {
+            "transform": [
+                {
+                    "regression": "Total Co2 emissions over time (tonnes)",
+                    "on": "Life Expectancy",
+                    "params": true
+                },
+                {
+                    "calculate": "'R²: '+format(datum.rSquared, '.2f')",
+                    "as": "R2"
+                }
+            ],
+            "mark": {
+                "type": "text",
+                "color": "orange",
+                "x": "width",
+                "align": "right",
+                "y": -10
+            },
+            "encoding": {
+                "text": {
+                    "type": "nominal",
+                    "field": "R2"
+                }
+            }
+        }
+    ]
+}
