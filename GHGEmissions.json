@@ -8,8 +8,8 @@
         "text": "Greenhouse Gas emissions (1850-2018)",
         "subtitle": "Source: Climatewatch.com - PIK"
     },
-    "height": 450,
-    "width": 825,
+    "height": 500,
+    "width": 1000,
     "mark": "line",
     "encoding": {
         "x": {
@@ -25,6 +25,18 @@
             "type": "nominal"
         }
     },
+    "transform": [
+        {
+            "calculate": "year(datum.Year)",
+            "as": "year"
+        },
+        {
+            "filter": "datum.year>=minYear"
+        },
+        {
+            "filter": "datum.year<=maxYear"
+        }
+    ],
     "params": [
         {
             "name": "minYear",
