@@ -1,0 +1,195 @@
+Entity,Region,Total Co2 emissions over time (tonnes),Life Expectancy
+United States,North America,4.16723E+11,78.862
+China,Asia,2.35564E+11,76.912
+Russia,Asia,1.15344E+11,72.584
+Germany,Europe,92635615097,81.326
+United Kingdom,Europe,78161145636,81.321
+Japan,Asia,65625166916,84.629
+India,Asia,54416488997,69.656
+France,Europe,38728680794,82.659
+Canada,North America,33576743330,82.434
+Ukraine,Europe,30559156342,72.065
+Poland,Europe,27863876203,78.73
+Italy,Europe,24739056768,83.512
+South Africa,Africa,21164298479,64.131
+Mexico,Central America,20075005664,75.054
+Iran,Asia,18914438734,76.677
+Australia,Oceania,18635749770,83.436
+South Korea,Asia,18335706556,83.033
+Brazil,South America,16238506431,75.881
+Saudi Arabia,Asia,15936377001,75.133
+Spain,Europe,14853332896,83.565
+Indonesia,Asia,14399959936,71.716
+Kazakhstan,Asia,13908240442,73.597
+Belgium,Europe,12543142370,81.628
+Czechia,Europe,11917740163,79.376
+Netherlands,Europe,11739971671,82.283
+Turkey,Europe,10839787738,77.691
+Romania,Europe,8493293608,76.054
+Argentina,South America,8431213004,76.667
+Venezuela,South America,7854691960,72.064
+Thailand,Asia,7364298189,77.15
+Egypt,Africa,6314498289,71.99
+Uzbekistan,Asia,6310349345,71.725
+Malaysia,Asia,6071963519,76.156
+Austria,Europe,5505508535,81.544
+Pakistan,Asia,5162288599,67.273
+North Korea,Asia,5049468225,72.274
+Hungary,Europe,5010790354,76.875
+Sweden,Europe,4987955651,82.797
+Belarus,Europe,4907842258,74.791
+United Arab Emirates,Asia,4695477307,77.972
+Iraq,Asia,4656535636,70.604
+Algeria,Africa,4587131635,76.88
+Denmark,Europe,4082633409,80.898
+Greece,Europe,4073671400,82.239
+Vietnam,Asia,3977272058,75.4
+Nigeria,Africa,3914990643,54.687
+Slovakia,Europe,3869881084,77.542
+Bulgaria,Europe,3831210012,75.046
+Colombia,South America,3399102674,77.287
+Philippines,Asia,3390273723,71.231
+Finland,Europe,3191080737,81.908
+Switzerland,Europe,3022784713,83.779
+Chile,South America,2903063180,80.181
+Kuwait,Asia,2877515699,75.489
+Serbia,Europe,2734456327,76.001
+Norway,Europe,2632393609,82.404
+Portugal,Europe,2614595359,82.049
+Azerbaijan,Asia,2503755644,73.005
+Turkmenistan,Asia,2434765662,68.191
+Israel,Africa,2379692524,82.972
+Ireland,Europe,2224060565,82.305
+Singapore,Asia,2157027728,83.62
+Libya,Africa,2136290401,72.913
+Qatar,Asia,2094572227,80.227
+Peru,South America,1941850252,76.736
+New Zealand,Oceania,1886568514,82.288
+Syria,Asia,1867933805,72.697
+Morocco,Africa,1737595218,76.68
+Estonia,Europe,1630194295,78.745
+Cuba,Central America,1614249235,78.802
+Trinidad and Tobago,Central America,1569561122,73.507
+Bangladesh,Asia,1562305907,72.591
+Lithuania,Europe,1557847258,75.933
+Moldova,Europe,1379218804,71.901
+Oman,Asia,1251111021,77.861
+Ecuador,South America,1197709388,77.01
+Croatia,Europe,1078544258,78.488
+Bosnia and Herzegovina,Europe,954784301,77.401
+Latvia,Europe,950274908,75.292
+Bahrain,Asia,926303201,77.292
+Tunisia,Africa,901511537,76.699
+Kyrgyzstan,Asia,861769602,71.45
+Slovenia,Europe,851099602,81.324
+Mongolia,Asia,787436563,69.87
+Zimbabwe,Africa,779383468,61.49
+Luxembourg,Europe,753685965,82.25
+Dominican Republic,Central America,747716929,74.081
+Lebanon,Asia,733434438,78.93
+Jordan,Asia,701302305,74.526
+Angola,Africa,682260326,61.147
+Georgia,Europe,659381464,73.767
+North Macedonia,Europe,636095994,75.797
+Yemen,Asia,624654156,66.125
+Myanmar,Asia,611490849,67.134
+Bolivia,South America,530154964,71.513
+Sri Lanka,Asia,500280693,76.978
+Tajikistan,Asia,489613510,71.097
+Kenya,Africa,467027394,66.699
+Jamaica,Central America,452855654,74.475
+Sudan,Africa,446154339,65.311
+Guatemala,Central America,444931134,74.302
+Armenia,Asia,383336064,75.087
+Ghana,Africa,371318619,64.074
+Uruguay,South America,371228927,77.911
+Brunei,Asia,360375192,75.86
+Cote d'Ivoire,Africa,333932355,57.783
+Panama,Central America,309251109,78.506
+Cyprus,Europe,293026004,80.982
+Albania,Europe,285502507,78.573
+Ethiopia,Africa,258571415,66.597
+Gabon,Africa,258407162,66.467
+Honduras,Central America,256321315,75.27
+Costa Rica,Central America,255062078,80.279
+Zambia,Africa,247987833,63.886
+Tanzania,Africa,243841497,65.456
+Senegal,Africa,243298685,67.941
+El Salvador,Central America,231869645,73.317
+Cameroon,Africa,215091700,59.292
+Democratic Republic of Congo,Africa,193183879,60.681
+Afghanistan,Asia,192848747,64.833
+Equatorial Guinea,Africa,179475703,58.735
+Laos,Asia,178015424,67.923
+Paraguay,South America,177914443,74.254
+Nicaragua,Central America,177396735,74.485
+Mozambique,Africa,177092206,60.854
+Bahamas,Central America,169518999,73.918
+Papua New Guinea,Oceania,169499159,64.501
+Nepal,Asia,165884135,70.778
+Cambodia,Asia,158243753,69.823
+Iceland,Europe,151823753,82.993
+Botswana,Africa,150401660,69.592
+Mauritius,Africa,115756507,74.991
+Suriname,South America,115203031,71.682
+Benin,Africa,111665117,61.771
+Kosovo,Europe,105636749,72.114
+Uganda,Africa,105594979,63.368
+Malta,Europe,104591398,82.53
+Montenegro,Europe,103621056,76.884
+Guyana,South America,100590486,69.906
+Madagascar,Africa,96770039,67.041
+Guinea,Africa,86235079,61.602
+Congo,Africa,78480734,64.57
+Haiti,Central America,76215378,64.001
+Namibia,Africa,76039286,63.708
+Mauritania,Africa,75632597,64.925
+Togo,Africa,66128454,61.042
+Burkina Faso,Africa,64321172,61.577
+Lesotho,Africa,63982252,54.331
+Mali,Africa,63318974,59.306
+Palestine,Asia,59437670,74.053
+Barbados,Central America,54874937,79.19
+Liberia,Africa,52517064,64.104
+Malawi,Africa,50701387,64.263
+Fiji,Oceania,49428747,67.444
+Niger,Africa,46523337,62.42
+Eswatini,Africa,40689810,60.194
+South Sudan,Africa,38352164,57.846
+Sierra Leone,Africa,36096233,54.696
+Somalia,Africa,32889848,57.397
+Rwanda,Africa,28684439,69.024
+Chad,Africa,26057722,54.239
+Maldives,Asia,24911241,78.921
+Antigua and Barbuda,Central America,21526783,77.016
+Bhutan,Asia,19193093,71.777
+Belize,Central America,19062872,74.623
+Djibouti,Africa,18909622,67.112
+Eritrea,Africa,17898960,66.321
+Andorra,Europe,15070878,83.732
+Saint Lucia,Central America,14365567,76.203
+Gambia,Africa,13966136,62.05
+Seychelles,Africa,13379536,73.402
+Cape Verde,Africa,13286506,72.981
+Burundi,Africa,13057139,61.584
+Palau,Oceania,10562041,73.701
+Central African Republic,Africa,10543960,53.283
+Solomon Islands,Oceania,10434984,72.996
+Guinea-Bissau,Africa,10094254,58.322
+Grenada,Central America,8262881,72.397
+Saint Vincent and the Grenadines,Central America,6966830,72.534
+Samoa,Oceania,6782410,73.321
+Timor,Asia,6543008,69.495
+Saint Kitts and Nevis,Central America,6339698,76.226
+Liechtenstein,Europe,6111118,82.494
+Comoros,Africa,5301846,64.321
+Nauru,Oceania,4858262,59.962
+Dominica,Central America,4806990,75
+Vanuatu,Oceania,4752294,70.474
+Tonga,Oceania,4383586,70.907
+Micronesia,Oceania,3713305,67.883
+Marshall Islands,Oceania,3416752,73.696
+Sao Tome and Principe,Africa,3360735,70.385
+Kiribati,Oceania,2085306,68.369
+St. Kitts-Nevis-Anguilla,Central America,622880,76.351
+Tuvalu,Oceania,278925,67.567
