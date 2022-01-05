@@ -4,7 +4,7 @@
         "url": "https://raw.githubusercontent.com/willdiaz635/willdiaz635.github.io/main/item4.csv"
     },
     "height": 400,
-    "width": 900,
+    "width": 1000,
     "title": {
         "text": "Linear regression: Total Historical Emissions on Life Expectancy",
         "subtitle": "Source: OurWorldInData (csv download)",
@@ -14,7 +14,9 @@
         {
             "mark": {
                 "type": "point",
-                "tooltip": true,
+                "tooltip": {
+                    "content": "data"
+                },
                 "color": "orange"
             },
             "encoding": {
@@ -23,13 +25,15 @@
                     "title": "Total historical Co2 emissions (tonnes)",
                     "type": "quantitative",
                     "axis": {
-                        "domain": true
+                        "domain": true,
+                        "grid": false
                     },
                     "scale": {
                         "domain": [
                             0,
                             420000000000
-                        ]
+                        ],
+                        "type": "sqrt"
                     }
                 },
                 "y": {
@@ -41,6 +45,9 @@
                             50,
                             90
                         ]
+                    },
+                    "axis": {
+                        "grid": true
                     }
                 }
             }
@@ -48,7 +55,7 @@
         {
             "mark": {
                 "type": "line",
-                "color": "navy"
+                "color": "blue"
             },
             "transform": [
                 {
