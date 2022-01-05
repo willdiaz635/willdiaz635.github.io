@@ -3,8 +3,8 @@
     "data": {
         "url": "https://raw.githubusercontent.com/willdiaz635/willdiaz635.github.io/main/item2.csv"
     },
-    "height": 450,
-    "width": 800,
+    "height": 400,
+    "width": 1000,
     "title": {
         "text": "Linear regression: Pollution exposure on attributable deaths",
         "subtitle": "Source: OECD",
