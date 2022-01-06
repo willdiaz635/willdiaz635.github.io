@@ -17,7 +17,7 @@
                 "tooltip": {
                     "content": "data"
                 },
-                "color": "orange"
+                "color": "blue"
             },
             "encoding": {
                 "x": {
@@ -50,7 +50,7 @@
         {
             "mark": {
                 "type": "line",
-                "color": "navy"
+                "color": "red"
             },
             "transform": [
                 {
