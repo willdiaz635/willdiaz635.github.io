@@ -10,7 +10,10 @@
     },
     "height": 500,
     "width": 1000,
-    "mark": "bar",
+    "mark": {
+        "type": "bar",
+        "tooltip": true
+    },
     "encoding": {
         "x": {
             "field": "Year",
@@ -18,6 +21,7 @@
         },
         "y": {
             "field": "Pollution",
+            "title": "Metric Tonnes of Carbon Dioxide",
             "type": "quantitative",
             "axis": {
                 "grid": true
