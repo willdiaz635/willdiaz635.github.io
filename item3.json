@@ -6,7 +6,7 @@
     "width": 1000,
     "height": 400,
     "title": {
-        "text": "CO2 emissions and Income per Capita",
+        "text": "CO2 Emissions and GDP per Capita",
         "subtitle": "Sources: WorldPopulationReview (scraped), OurWorldinData (csv download), WorldBank (csv download)"
     },
     "layer": [
