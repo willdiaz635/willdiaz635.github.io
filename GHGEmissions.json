@@ -10,6 +10,29 @@
     },
     "height": 500,
     "width": 1000,
+    "selection": {
+        "Category": {
+            "type": "single",
+            "fields": [
+                "Category"
+            ],
+            "bind": {
+                "input": "select",
+                "options": [
+                    null,
+                    "China",
+                    "India",
+                    "Kiribati",
+                    "Netherlands",
+                    "Somalia",
+                    "Thailand",
+                    "United Kingdom",
+                    "United States"
+                ],
+                "name": "Select Country: "
+            }
+        }
+    },
     "mark": {
         "type": "bar",
         "tooltip": true
@@ -45,6 +68,11 @@
         },
         {
             "filter": "datum.year<=maxYear"
+        },
+        {
+            "filter": {
+                "selection": "Category"
+            }
         }
     ],
     "params": [
