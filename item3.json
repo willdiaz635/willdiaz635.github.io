@@ -3,7 +3,7 @@
     "data": {
         "url": "https://raw.githubusercontent.com/willdiaz635/willdiaz635.github.io/main/item3.csv"
     },
-    "width": 950,
+    "width": 1000,
     "height": 400,
     "title": {
         "text": "CO2 emissions and Income per Capita",
@@ -117,7 +117,7 @@
                     }
                 },
                 "color": {
-                    "value": "orange"
+                    "value": "blue"
                 }
             }
         }
