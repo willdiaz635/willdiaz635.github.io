@@ -10,13 +10,6 @@
         "subtitle": "Source: Our World In Date, World Bank",
         "subtitleFontStyle": "italic"
     },
-    "params": [
-        {
-            "name": "grid",
-            "select": "interval",
-            "bind": "scales"
-        }
-    ],
     "layer": [
         {
             "mark": {
