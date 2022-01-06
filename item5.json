@@ -1,7 +1,10 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "data": {
-        "url": "https://raw.githubusercontent.com/willdiaz635/willdiaz635.github.io/main/item5.csv"
+        "url": "https://raw.githubusercontent.com/willdiaz635/willdiaz635.github.io/main/item5.csv",
+        "format": {
+            "type": "csv"
+        }
     },
     "height": 500,
     "width": 1000,
@@ -10,39 +13,64 @@
         "subtitle": "Source: Our World In Data, World Bank",
         "subtitleFontStyle": "italic"
     },
-    "layer": [
-        {
-            "mark": {
-                "type": "circle",
-                "size": 125,
-                "tooltip": {
-                    "content": "data"
-                },
-                "color": "blue"
-            },
-            "encoding": {
-                "x": {
-                    "field": "Death rate from air pollution (per 100,000, age-standardised)",
-                    "title": "Death Rate from Air Pollution (per 100,000, age-standardised)",
-                    "type": "quantitative",
-                    "axis": {
-                        "domain": true
-                    }
-                },
-                "y": {
-                    "field": "GDP/Capita",
-                    "title": "GDP/Capita (current $US)",
-                    "type": "quantitative"
-                },
-                "color": {
-                    "field": "Region",
-                    "type": "nominal",
-                    "title": "Continent:",
-                    "scale": {
-                        "scheme": "set1"
-                    }
-                }
+    "selection": {
+        "Region": {
+            "type": "single",
+            "fields": [
+                "Region"
+            ],
+            "bind": {
+                "input": "select",
+                "options": [
+                    null,
+                    "Africa",
+                    "Asia",
+                    "Central America",
+                    "Europe",
+                    "North America",
+                    "Oceania",
+                    "South America"
+                ],
+                "name": "Select Region:"
             }
         }
-    ]
+    },
+    "transform": [
+        {
+            "filter": {
+                "selection": "Region"
+            }
+        }
+    ],
+    "mark": {
+        "type": "circle",
+        "size": 80,
+        "tooltip": {
+            "content": "data"
+        },
+        "color": "blue"
+    },
+    "encoding": {
+        "x": {
+            "field": "Death rate from air pollution (per 100,000, age-standardised)",
+            "title": "Death Rate from Air Pollution (per 100,000, age-standardised)",
+            "type": "quantitative",
+            "axis": {
+                "domain": true
+            }
+        },
+        "y": {
+            "field": "GDP/Capita",
+            "title": "GDP/Capita (current $US)",
+            "type": "quantitative"
+        },
+        "color": {
+            "field": "Region",
+            "type": "nominal",
+            "title": "Continent:",
+            "scale": {
+                "scheme": "set1"
+            }
+        }
+    }
 }
