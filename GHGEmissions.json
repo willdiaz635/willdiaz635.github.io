@@ -10,7 +10,7 @@
     },
     "height": 500,
     "width": 1000,
-    "mark": "line",
+    "mark": "bar",
     "encoding": {
         "x": {
             "field": "Year",
@@ -18,7 +18,13 @@
         },
         "y": {
             "field": "Pollution",
-            "type": "quantitative"
+            "type": "quantitative",
+            "axis": {
+                "grid": true
+            },
+            "scale": {
+                "type": ""
+            }
         },
         "color": {
             "field": "Category",
