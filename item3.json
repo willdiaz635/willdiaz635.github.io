@@ -6,17 +6,19 @@
     "width": 950,
     "height": 400,
     "title": {
-        "text": "CO2 emissions, HDI, and Income per Capita",
+        "text": "CO2 emissions and Income per Capita",
         "subtitle": "Sources: WorldPopulationReview (scraped), OurWorldinData (csv download), WorldBank (csv download)"
     },
     "layer": [
         {
-            "mark": "bar",
+            "mark": {
+                "type": "bar",
+                "color": "blue"
+            },
             "encoding": {
                 "x": {
                     "field": "Country",
-                    "type": "nominal",
-                    "title": "Country",
+                    "title": null,
                     "scale": {
                         "domain": [
                             "Niger",
@@ -91,16 +93,16 @@
                     "type": "ordinal"
                 },
                 "y": {
-                    "field": "HDI",
+                    "field": "GDP per capita",
                     "type": "quantitative",
-                    "title": "Human Development Index (point)",
+                    "title": "GDP per Capita (current $US)",
                     "axis": {
                         "grid": false
                     },
                     "scale": {
                         "domain": [
                             0,
-                            1
+                            100000
                         ]
                     }
                 },

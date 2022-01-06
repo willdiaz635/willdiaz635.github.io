@@ -6,8 +6,8 @@
     "height": 500,
     "width": 1000,
     "title": {
-        "text": "Scatterplot Pan and Zoom : Death Rate from Air Pollution on GDP/Capita (2015)",
-        "subtitle": "Source: Our World In Date, World Bank",
+        "text": "Scatterplot: Death Rate from Air Pollution on GDP/Capita (2015)",
+        "subtitle": "Source: Our World In Data, World Bank",
         "subtitleFontStyle": "italic"
     },
     "layer": [
