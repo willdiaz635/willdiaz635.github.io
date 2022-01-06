@@ -8,7 +8,7 @@
         "text": "Historical Greenhouse Gas Emissions for Different Nations (1850-2018)",
         "subtitle": "Source: Climatewatch.com - PIK"
     },
-    "height": 500,
+    "height": 550,
     "width": 1000,
     "selection": {
         "Country": {

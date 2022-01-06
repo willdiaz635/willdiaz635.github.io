@@ -4,7 +4,7 @@
         "url": "https://raw.githubusercontent.com/willdiaz635/willdiaz635.github.io/main/item3.csv"
     },
     "width": 1000,
-    "height": 400,
+    "height": 500,
     "title": {
         "text": "CO2 Emissions and GDP per Capita",
         "subtitle": "Sources: WorldPopulationReview (scraped), OurWorldinData (csv download), WorldBank (csv download)"
