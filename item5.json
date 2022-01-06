@@ -6,14 +6,22 @@
     "height": 500,
     "width": 1000,
     "title": {
-        "text": "Scatter Plot: Death Rate from Air Pollution on GDP/Capita (2015)",
+        "text": "Scatterplot Pan and Zoom : Death Rate from Air Pollution on GDP/Capita (2015)",
         "subtitle": "Source: Our World In Date, World Bank",
         "subtitleFontStyle": "italic"
     },
+    "params": [
+        {
+            "name": "grid",
+            "select": "interval",
+            "bind": "scales"
+        }
+    ],
     "layer": [
         {
             "mark": {
-                "type": "point",
+                "type": "circle",
+                "size": 80,
                 "tooltip": {
                     "content": "data"
                 },
@@ -22,7 +30,7 @@
             "encoding": {
                 "x": {
                     "field": "Death rate from air pollution (per 100,000, age-standardised)",
-                    "title": "Death rate from air pollution (per 100,000, age-standardised)",
+                    "title": "Death Rate from Air Pollution (per 100,000, age-standardised)",
                     "type": "quantitative",
                     "axis": {
                         "domain": true
@@ -32,21 +40,14 @@
                     "field": "GDP/Capita",
                     "title": "GDP/Capita (current $US)",
                     "type": "quantitative"
-                }
-            }
-        },
-        {
-            "mark": {
-                "type": "text",
-                "color": "orange",
-                "x": "width",
-                "align": "right",
-                "y": -10
-            },
-            "encoding": {
-                "text": {
+                },
+                "color": {
+                    "field": "Region",
                     "type": "nominal",
-                    "field": "R2"
+                    "title": "Continent:",
+                    "scale": {
+                        "scheme": "set1"
+                    }
                 }
             }
         }
