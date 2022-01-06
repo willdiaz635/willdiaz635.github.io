@@ -13,7 +13,8 @@
         {
             "mark": {
                 "type": "bar",
-                "color": "blue"
+                "color": "blue",
+                "tooltip": true
             },
             "encoding": {
                 "x": {
@@ -82,11 +83,20 @@
                             40
                         ]
                     }
+                },
+                "color": {
+                    "field": "Region ",
+                    "scale": {
+                        "scheme": "set1"
+                    }
                 }
             }
         },
         {
-            "mark": "point",
+            "mark": {
+                "type": "point",
+                "tooltip": true
+            },
             "encoding": {
                 "x": {
                     "field": "Country",
