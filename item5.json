@@ -61,7 +61,7 @@
         },
         "y": {
             "field": "GDP/Capita",
-            "title": "GDP/Capita (current $US)",
+            "title": "GDP per Capita (current $US)",
             "type": "quantitative"
         },
         "color": {
