@@ -17,7 +17,7 @@
                 "tooltip": {
                     "content": "data"
                 },
-                "color": "orange"
+                "color": "grey"
             },
             "encoding": {
                 "x": {
