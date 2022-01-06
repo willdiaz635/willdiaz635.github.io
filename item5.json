@@ -1,0 +1,54 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+        "url": "https://raw.githubusercontent.com/willdiaz635/willdiaz635.github.io/main/item5.csv"
+    },
+    "height": 500,
+    "width": 1000,
+    "title": {
+        "text": "Scatter Plot: Death Rate from Air Pollution on GDP/Capita (2015)",
+        "subtitle": "Source: Our World In Date, World Bank",
+        "subtitleFontStyle": "italic"
+    },
+    "layer": [
+        {
+            "mark": {
+                "type": "point",
+                "tooltip": {
+                    "content": "data"
+                },
+                "color": "blue"
+            },
+            "encoding": {
+                "x": {
+                    "field": "Death rate from air pollution (per 100,000, age-standardised)",
+                    "title": "Death rate from air pollution (per 100,000, age-standardised)",
+                    "type": "quantitative",
+                    "axis": {
+                        "domain": true
+                    }
+                },
+                "y": {
+                    "field": "GDP/Capita",
+                    "title": "GDP/Capita (current $US)",
+                    "type": "quantitative"
+                }
+            }
+        },
+        {
+            "mark": {
+                "type": "text",
+                "color": "orange",
+                "x": "width",
+                "align": "right",
+                "y": -10
+            },
+            "encoding": {
+                "text": {
+                    "type": "nominal",
+                    "field": "R2"
+                }
+            }
+        }
+    ]
+}
