@@ -14,7 +14,7 @@
         {
             "mark": {
                 "type": "circle",
-                "size": 80,
+                "size": 125,
                 "tooltip": {
                     "content": "data"
                 },
