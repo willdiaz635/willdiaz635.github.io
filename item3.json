@@ -105,7 +105,7 @@
                 "y": {
                     "field": "GDP per capita",
                     "type": "quantitative",
-                    "title": "GDP per Capita (current $US)",
+                    "title": "GDP per Capita (current $US) (point)",
                     "axis": {
                         "grid": false
                     },
