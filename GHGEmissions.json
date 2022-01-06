@@ -11,10 +11,10 @@
     "height": 500,
     "width": 1000,
     "selection": {
-        "Category": {
+        "Country": {
             "type": "single",
             "fields": [
-                "Category"
+                "Country"
             ],
             "bind": {
                 "input": "select",
@@ -39,11 +39,11 @@
     },
     "encoding": {
         "x": {
-            "field": "Year",
+            "field": "Date",
             "type": "temporal"
         },
         "y": {
-            "field": "Pollution",
+            "field": "Metric Tonnes of Carbon Dioxide",
             "title": "Metric Tonnes of Carbon Dioxide",
             "type": "quantitative",
             "axis": {
@@ -54,13 +54,13 @@
             }
         },
         "color": {
-            "field": "Category",
+            "field": "Country",
             "type": "nominal"
         }
     },
     "transform": [
         {
-            "calculate": "year(datum.Year)",
+            "calculate": "year(datum.Date)",
             "as": "year"
         },
         {
@@ -71,7 +71,7 @@
         },
         {
             "filter": {
-                "selection": "Category"
+                "selection": "Country"
             }
         }
     ],
