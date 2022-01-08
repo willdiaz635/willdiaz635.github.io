@@ -1,0 +1,178 @@
+Country,Region,EPI Score,Life Expectancy,Health Expenditure per Capita (current $US)
+Denmark,Europe / North America,82.5,80.9,6216.77
+Luxembourg,Europe / North America,82.3,82.25,6227.08
+Switzerland,Europe / North America,81.5,83.78,9870.66
+United Kingdom,Europe / North America,81.3,81.32,4315.43
+France,Europe / North America,80,82.66,4690.07
+Austria,Europe / North America,79.6,81.54,5326.44
+Finland,Europe / North America,78.9,81.91,4515.68
+Sweden,Europe / North America,78.7,82.8,5981.71
+Norway,Europe / North America,77.7,82.4,8239.10
+Germany,Europe / North America,77.2,81.33,5472.20
+Netherlands,Europe / North America,75.3,82.28,5306.53
+Japan,Asia,75.1,84.63,4266.59
+Australia,Oceania,74.9,83.44,5425.34
+Spain,Europe / North America,74.3,83.57,2736.32
+Belgium,Europe / North America,73.3,81.63,4912.70
+Ireland,Europe / North America,72.8,82.31,5489.07
+Iceland,Europe / North America,72.3,82.99,6530.93
+Slovenia,Europe / North America,72,81.32,2169.58
+New Zealand,Oceania,71.3,82.29,4037.46
+Canada,Europe / North America,71,82.43,4994.90
+Czech Republic,Europe / North America,71,79.38,1765.59
+Italy,Europe / North America,71,83.51,2989.00
+Malta,Europe / North America,70.7,82.53,2753.51
+United States of America,Europe / North America,69.3,78.86,10623.85
+Greece,Europe / North America,69.1,82.24,1566.90
+Slovakia,Europe / North America,68.3,77.54,1299.91
+Portugal,Europe / North America,67,82.05,2215.17
+South Korea,Asia,66.5,83.03,2542.82
+Israel,Asia,65.8,82.97,3323.65
+Estonia,Europe / North America,65.3,78.75,1552.97
+Cyprus,Europe / North America,64.8,80.98,1954.41
+Romania,Europe / North America,64.7,76.05,687.25
+Hungary,Europe / North America,63.7,76.88,1081.80
+Croatia,Europe / North America,63.1,78.49,1014.22
+Lithuania,Europe / North America,62.9,75.93,1249.25
+Latvia,Europe / North America,61.6,75.29,1101.49
+Poland,Europe / North America,60.9,78.73,978.74
+Seychelles,Africa,58.2,73.4,833.08
+Singapore,Asia,58.1,83.62,2823.64
+Bulgaria,Europe / North America,57,75.05,689.91
+United Arab Emirates,Asia,55.6,77.97,1817.35
+North Macedonia,Europe / North America,55.4,75.8,399.10
+Chile,South and Central America,55.3,80.18,1455.61
+Serbia,Europe / North America,55.2,76,617.09
+Brunei ,Asia,54.8,75.86,763.15
+Kuwait,Asia,53.6,75.49,1711.22
+Jordan,Asia,53.4,74.53,330.14
+Belarus,Europe / North America,53,74.79,356.25
+Colombia,South and Central America,52.9,77.29,513.16
+Mexico,South and Central America,52.6,75.05,519.61
+Costa Rica,South and Central America,52.5,80.28,909.67
+Armenia,Asia,52.3,75.09,422.28
+Argentina,South and Central America,52.2,76.67,1127.91
+Brazil,South and Central America,51.2,75.88,848.39
+Bahrain,Asia,51,77.29,994.18
+Ecuador,South and Central America,51,77.01,516.25
+Russia,Asia,50.5,72.58,609.01
+Venezuela,South and Central America,50.3,72.06,256.95
+Ukraine,Europe / North America,49.5,72.07,228.39
+Uruguay,South and Central America,49.1,77.91,1590.05
+Albania,Europe / North America,49,78.57,274.91
+Antigua and Barbuda,South and Central America,48.5,77.02,875.17
+Cuba,South and Central America,48.4,78.8,986.94
+Jamaica,South and Central America,48.2,74.48,320.98
+Iran,Asia,48,76.68,484.29
+Malaysia,Asia,47.9,76.16,427.22
+Trinidad and Tobago,South and Central America,47.5,73.51,1123.42
+Panama,South and Central America,47.3,78.51,1131.66
+Tunisia,Africa,46.7,76.7,251.55
+Azerbaijan,Asia,46.5,73.01,165.77
+Paraguay,South and Central America,46.4,74.25,400.39
+Dominican Republic,South and Central America,46.3,74.08,461.54
+Montenegro,Europe / North America,46.3,76.88,731.48
+Gabon,Africa,45.8,66.47,218.37
+Barbados,South and Central America,45.6,79.19,1164.54
+Bosnia and Herzegovina,Europe / North America,45.4,77.4,539.55
+Lebanon,Asia,45.4,78.93,686.47
+Thailand,Asia,45.4,77.15,275.92
+Suriname,South and Central America,45.2,71.68,474.13
+Mauritius,Africa,45.1,74.99,653.35
+Tonga,Oceania,45.1,70.91,236.93
+Algeria,Africa,44.8,76.88,255.87
+Kazakhstan,Asia,44.7,73.6,275.85
+Dominica,South and Central America,44.6,75,490.82
+Moldova,Europe / North America,44.4,71.9,212.97
+Bolivia,South and Central America,44.3,71.51,223.60
+Uzbekistan,Asia,44.3,71.73,82.27
+Peru,South and Central America,44,76.74,369.08
+Saudi Arabia,Asia,44,75.13,1484.59
+Turkmenistan,Asia,43.9,68.19,460.18
+Bahamas,South and Central America,43.5,73.92,2013.38
+Egypt,Africa,43.3,71.99,125.55
+El Salvador,South and Central America,43.1,73.32,288.52
+Grenada,South and Central America,43.1,72.4,474.53
+South Africa,Africa,43.1,64.13,525.96
+Turkey,Europe / North America,42.6,77.69,389.87
+Morocco,Africa,42.3,76.68,174.78
+Belize,South and Central America,41.9,74.62,285.99
+Georgia,Europe / North America,41.3,73.77,312.75
+Botswana,Africa,40.4,69.59,482.96
+Namibia,Africa,40.2,63.71,471.49
+Kyrgyzstan,Asia,39.8,71.45,85.74
+Iraq,Asia,39.5,70.6,239.41
+Bhutan,Asia,39.3,71.78,102.74
+Nicaragua,South and Central America,39.2,74.49,173.77
+Sri Lanka,Asia,39,76.98,157.47
+Oman,Asia,38.5,77.86,678.23
+Philippines,Asia,38.4,71.23,136.54
+Burkina Faso,Africa,38.3,61.58,40.25
+Malawi,Africa,38.3,64.26,35.50
+Tajikistan,Asia,38.2,71.1,59.84
+Equatorial Guinea,Africa,38.1,58.74,314.30
+Honduras,South and Central America,37.8,75.27,176.25
+Indonesia,Asia,37.8,71.72,111.68
+Kiribati,Oceania,37.7,68.37,196.85
+Sao Tome and Principe,Africa,37.6,70.39,125.40
+China,Asia,37.3,76.91,501.06
+Samoa,Oceania,37.3,73.32,227.33
+Qatar,Asia,37.1,80.23,1716.27
+Zimbabwe,Africa,37,61.49,140.32
+Central African Republic,Africa,36.9,53.28,53.66
+Dem. Rep. Congo,Africa,36.4,60.68,18.51
+Guyana,South and Central America,35.9,69.91,295.56
+Maldives,Asia,35.6,78.92,973.54
+Uganda,Africa,35.6,63.37,43.14
+Timor-Leste,Asia,35.3,69.5,93.69
+Laos,Asia,34.8,67.92,57.11
+Sudan,Africa,34.8,65.31,60.17
+Kenya,Africa,34.7,66.7,88.39
+Zambia,Africa,34.7,63.89,75.99
+Ethiopia,Africa,34.4,66.6,24.23
+Fiji,Oceania,34.4,67.44,214.55
+Mozambique,Africa,33.9,60.85,40.26
+Eswatini,Africa,33.8,60.19,271.14
+Rwanda,Africa,33.8,69.02,58.31
+Cambodia,Africa,33.6,69.82,90.56
+Cameroon,Africa,33.6,59.29,54.14
+Vietnam,Asia,33.4,75.4,151.69
+Pakistan,Asia,33.1,67.27,42.87
+Micronesia,Oceania,33,67.88,415.82
+Cape Verde,Africa,32.8,72.98,194.86
+Nepal,Asia,32.7,70.78,57.85
+Papua New Guinea,Asia,32.4,64.5,63.77
+Mongolia,Asia,32.2,69.87,155.09
+Comoros,Africa,32.1,64.32,65.23
+Guatemala,South and Central America,31.8,74.3,259.62
+Tanzania,Africa,31.1,65.46,36.82
+Nigeria,Africa,31,54.69,83.75
+Marshall Islands,Oceania,30.8,73.7,643.07
+Niger,Africa,30.8,62.42,30.36
+Republic of the Congo,Africa,30.8,64.57,47.52
+Senegal,Africa,30.7,67.94,58.90
+Eritrea,Africa,30.4,66.32,23.79
+Benin,Africa,30,61.77,30.94
+Angola,Africa,29.7,61.15,87.62
+Togo,Africa,29.5,61.04,41.84
+Mali,Africa,29.4,59.31,34.95
+Guinea-Bissau,Africa,29.1,58.32,53.29
+Bangladesh,Asia,29,72.59,41.91
+Vanuatu,Oceania,28.9,70.47,105.39
+Djibouti,Africa,28.1,67.11,70.86
+Lesotho,Africa,28,54.33,124.79
+Gambia,Africa,27.9,62.05,22.16
+Mauritania,Africa,27.7,64.93,54.49
+Ghana,Africa,27.6,64.07,77.91
+India,Asia,27.6,69.66,72.83
+Burundi,Africa,27,61.58,24.03
+Haiti,South and Central America,27,64,64.25
+Chad,Africa,26.7,54.24,29.24
+Solomon Islands,Oceania,26.7,73,94.96
+Madagascar,Africa,26.5,67.04,22.05
+Guinea,Africa,26.4,61.6,38.32
+Cote d'Ivoire,Africa,25.8,57.78,71.88
+Sierra Leone,Africa,25.7,54.7,85.78
+Afghanistan,Asia,25.5,64.83,49.84
+Myanmar,Asia,25.1,67.13,59.21
+Liberia,Africa,22.6,64.1,45.42
