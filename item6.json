@@ -1,0 +1,90 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+        "url": "https://raw.githubusercontent.com/willdiaz635/willdiaz635.github.io/main/item6.csv",
+        "format": {
+            "type": "csv"
+        }
+    },
+    "height": 500,
+    "width": 1000,
+    "title": {
+        "text": "",
+        "subtitle": "S",
+        "subtitleFontStyle": "italic"
+    },
+    "selection": {
+        "Region": {
+            "type": "single",
+            "fields": [
+                "Region"
+            ],
+            "bind": {
+                "input": "select",
+                "options": [
+                    null,
+                    "Africa",
+                    "Asia",
+                    "Europe / North America",
+                    "Oceania",
+                    "South and Central America"
+                ],
+                "name": "Select Region:"
+            }
+        }
+    },
+    "transform": [
+        {
+            "filter": {
+                "selection": "Region"
+            }
+        }
+    ],
+    "mark": {
+        "type": "point",
+        "tooltip": {
+            "content": "data"
+        },
+        "color": "blue"
+    },
+    "encoding": {
+        "x": {
+            "field": "EPI Score",
+            "title": "Environmental Protection Index",
+            "type": "quantitative",
+            "axis": {
+                "domain": true
+            },
+            "scale": {
+                "domain": [
+                    20,
+                    85
+                ]
+            }
+        },
+        "y": {
+            "field": "Life Expectancy",
+            "title": "Life Expectancy",
+            "type": "quantitative",
+            "scale": {
+                "domain": [
+                    50,
+                    87.5
+                ]
+            }
+        },
+        "color": {
+            "field": "Region",
+            "type": "nominal",
+            "title": "Continent:",
+            "scale": {
+                "scheme": "tableau20"
+            }
+        },
+        "size": {
+            "field": "Health Expenditure per Capita (current $US)",
+            "type": "quantitative",
+            "title": "Health Expenditure per Capita (current $US)"
+        }
+    }
+}
