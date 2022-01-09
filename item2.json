@@ -7,7 +7,7 @@
     "width": 1000,
     "title": {
         "text": "Linear Regression: Pollution Exposure on Environment-attributable Deaths",
-        "subtitle": "Source: OECD",
+        "subtitle": "Source: WHO and OECD",
         "subtitleFontStyle": "italic"
     },
     "layer": [

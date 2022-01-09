@@ -1,195 +1,195 @@
-Entity,Region,Total Co2 emissions over time (tonnes),Life Expectancy
-United States,North America,416723089020,78.86
-China,Asia,235564012528,76.91
-Russia,Asia,115344149534,72.58
-Germany,Europe,92635615097,81.33
-United Kingdom,Europe,78161145636,81.32
-Japan,Asia,65625166916,84.63
-India,Asia,54416488997,69.66
-France,Europe,38728680794,82.66
-Canada,North America,33576743330,82.43
-Ukraine,Europe,30559156342,72.07
-Poland,Europe,27863876203,78.73
-Italy,Europe,24739056768,83.51
-South Africa,Africa,21164298479,64.13
-Mexico,Central America,20075005664,75.05
-Iran,Asia,18914438734,76.68
-Australia,Oceania,18635749770,83.44
-South Korea,Asia,18335706556,83.03
-Brazil,South America,16238506431,75.88
-Saudi Arabia,Asia,15936377001,75.13
-Spain,Europe,14853332896,83.57
-Indonesia,Asia,14399959936,71.72
-Kazakhstan,Asia,13908240442,73.60
-Belgium,Europe,12543142370,81.63
-Czechia,Europe,11917740163,79.38
-Netherlands,Europe,11739971671,82.28
-Turkey,Europe,10839787738,77.69
-Romania,Europe,8493293608,76.05
-Argentina,South America,8431213004,76.67
-Venezuela,South America,7854691960,72.06
-Thailand,Asia,7364298189,77.15
-Egypt,Africa,6314498289,71.99
-Uzbekistan,Asia,6310349345,71.73
-Malaysia,Asia,6071963519,76.16
-Austria,Europe,5505508535,81.54
-Pakistan,Asia,5162288599,67.27
-North Korea,Asia,5049468225,72.27
-Hungary,Europe,5010790354,76.88
-Sweden,Europe,4987955651,82.80
-Belarus,Europe,4907842258,74.79
-United Arab Emirates,Asia,4695477307,77.97
-Iraq,Asia,4656535636,70.60
-Algeria,Africa,4587131635,76.88
-Denmark,Europe,4082633409,80.90
-Greece,Europe,4073671400,82.24
-Vietnam,Asia,3977272058,75.40
-Nigeria,Africa,3914990643,54.69
-Slovakia,Europe,3869881084,77.54
-Bulgaria,Europe,3831210012,75.05
-Colombia,South America,3399102674,77.29
-Philippines,Asia,3390273723,71.23
-Finland,Europe,3191080737,81.91
-Switzerland,Europe,3022784713,83.78
-Chile,South America,2903063180,80.18
-Kuwait,Asia,2877515699,75.49
-Serbia,Europe,2734456327,76.00
-Norway,Europe,2632393609,82.40
-Portugal,Europe,2614595359,82.05
-Azerbaijan,Asia,2503755644,73.01
-Turkmenistan,Asia,2434765662,68.19
-Israel,Africa,2379692524,82.97
-Ireland,Europe,2224060565,82.31
-Singapore,Asia,2157027728,83.62
-Libya,Africa,2136290401,72.91
-Qatar,Asia,2094572227,80.23
-Peru,South America,1941850252,76.74
-New Zealand,Oceania,1886568514,82.29
-Syria,Asia,1867933805,72.70
-Morocco,Africa,1737595218,76.68
-Estonia,Europe,1630194295,78.75
-Cuba,Central America,1614249235,78.80
-Trinidad and Tobago,Central America,1569561122,73.51
-Bangladesh,Asia,1562305907,72.59
-Lithuania,Europe,1557847258,75.93
-Moldova,Europe,1379218804,71.90
-Oman,Asia,1251111021,77.86
-Ecuador,South America,1197709388,77.01
-Croatia,Europe,1078544258,78.49
-Bosnia and Herzegovina,Europe,954784301,77.40
-Latvia,Europe,950274908,75.29
-Bahrain,Asia,926303201,77.29
-Tunisia,Africa,901511537,76.70
-Kyrgyzstan,Asia,861769602,71.45
-Slovenia,Europe,851099602,81.32
-Mongolia,Asia,787436563,69.87
-Zimbabwe,Africa,779383468,61.49
-Luxembourg,Europe,753685965,82.25
-Dominican Republic,Central America,747716929,74.08
-Lebanon,Asia,733434438,78.93
-Jordan,Asia,701302305,74.53
-Angola,Africa,682260326,61.15
-Georgia,Europe,659381464,73.77
-North Macedonia,Europe,636095994,75.80
-Yemen,Asia,624654156,66.13
-Myanmar,Asia,611490849,67.13
-Bolivia,South America,530154964,71.51
-Sri Lanka,Asia,500280693,76.98
-Tajikistan,Asia,489613510,71.10
-Kenya,Africa,467027394,66.70
-Jamaica,Central America,452855654,74.48
-Sudan,Africa,446154339,65.31
-Guatemala,Central America,444931134,74.30
-Armenia,Asia,383336064,75.09
-Ghana,Africa,371318619,64.07
-Uruguay,South America,371228927,77.91
-Brunei,Asia,360375192,75.86
-Cote d'Ivoire,Africa,333932355,57.78
-Panama,Central America,309251109,78.51
-Cyprus,Europe,293026004,80.98
-Albania,Europe,285502507,78.57
-Ethiopia,Africa,258571415,66.60
-Gabon,Africa,258407162,66.47
-Honduras,Central America,256321315,75.27
-Costa Rica,Central America,255062078,80.28
-Zambia,Africa,247987833,63.89
-Tanzania,Africa,243841497,65.46
-Senegal,Africa,243298685,67.94
-El Salvador,Central America,231869645,73.32
-Cameroon,Africa,215091700,59.29
-Democratic Republic of Congo,Africa,193183879,60.68
-Afghanistan,Asia,192848747,64.83
-Equatorial Guinea,Africa,179475703,58.74
-Laos,Asia,178015424,67.92
-Paraguay,South America,177914443,74.25
-Nicaragua,Central America,177396735,74.49
-Mozambique,Africa,177092206,60.85
-Bahamas,Central America,169518999,73.92
-Papua New Guinea,Oceania,169499159,64.50
-Nepal,Asia,165884135,70.78
-Cambodia,Asia,158243753,69.82
-Iceland,Europe,151823753,82.99
-Botswana,Africa,150401660,69.59
-Mauritius,Africa,115756507,74.99
-Suriname,South America,115203031,71.68
-Benin,Africa,111665117,61.77
-Kosovo,Europe,105636749,72.11
-Uganda,Africa,105594979,63.37
-Malta,Europe,104591398,82.53
-Montenegro,Europe,103621056,76.88
-Guyana,South America,100590486,69.91
-Madagascar,Africa,96770039,67.04
-Guinea,Africa,86235079,61.60
-Congo,Africa,78480734,64.57
-Haiti,Central America,76215378,64.00
-Namibia,Africa,76039286,63.71
-Mauritania,Africa,75632597,64.93
-Togo,Africa,66128454,61.04
-Burkina Faso,Africa,64321172,61.58
-Lesotho,Africa,63982252,54.33
-Mali,Africa,63318974,59.31
-Palestine,Asia,59437670,74.05
-Barbados,Central America,54874937,79.19
-Liberia,Africa,52517064,64.10
-Malawi,Africa,50701387,64.26
-Fiji,Oceania,49428747,67.44
-Niger,Africa,46523337,62.42
-Eswatini,Africa,40689810,60.19
-South Sudan,Africa,38352164,57.85
-Sierra Leone,Africa,36096233,54.70
-Somalia,Africa,32889848,57.40
-Rwanda,Africa,28684439,69.02
-Chad,Africa,26057722,54.24
-Maldives,Asia,24911241,78.92
-Antigua and Barbuda,Central America,21526783,77.02
-Bhutan,Asia,19193093,71.78
-Belize,Central America,19062872,74.62
-Djibouti,Africa,18909622,67.11
-Eritrea,Africa,17898960,66.32
-Andorra,Europe,15070878,83.73
-Saint Lucia,Central America,14365567,76.20
-Gambia,Africa,13966136,62.05
-Seychelles,Africa,13379536,73.40
-Cape Verde,Africa,13286506,72.98
-Burundi,Africa,13057139,61.58
-Palau,Oceania,10562041,73.70
-Central African Republic,Africa,10543960,53.28
-Solomon Islands,Oceania,10434984,73.00
-Guinea-Bissau,Africa,10094254,58.32
-Grenada,Central America,8262881,72.40
-Saint Vincent and the Grenadines,Central America,6966830,72.53
-Samoa,Oceania,6782410,73.32
-Timor,Asia,6543008,69.50
-Saint Kitts and Nevis,Central America,6339698,76.23
-Liechtenstein,Europe,6111118,82.49
-Comoros,Africa,5301846,64.32
-Nauru,Oceania,4858262,59.96
-Dominica,Central America,4806990,75.00
-Vanuatu,Oceania,4752294,70.47
-Tonga,Oceania,4383586,70.91
-Micronesia,Oceania,3713305,67.88
-Marshall Islands,Oceania,3416752,73.70
-Sao Tome and Principe,Africa,3360735,70.39
-Kiribati,Oceania,2085306,68.37
-St. Kitts-Nevis-Anguilla,Central America,622880,76.35
-Tuvalu,Oceania,278925,67.57
+Entity,Region,Life Expectancy,,,
+Afghanistan,Asia,64.83,,Afghanistan,64.83
+Albania,Europe,78.57,,Albania,78.57
+Algeria,Africa,76.88,,Algeria,76.88
+Andorra,Europe,83.73,,Angola,61.15
+Angola,Africa,61.15,,Antigua and Barbuda,77.02
+Antigua and Barbuda,Central America,77.02,,Argentina,76.67
+Argentina,South America,76.67,,Armenia,75.09
+Armenia,Asia,75.09,,Australia,83.44
+Australia,Oceania,83.44,,Austria,81.54
+Austria,Europe,81.54,,Azerbaijan,73.01
+Azerbaijan,Asia,73.01,,Bahamas,73.92
+Bahamas,Central America,73.92,,Bahrain,77.29
+Bahrain,Asia,77.29,,Bangladesh,72.59
+Bangladesh,Asia,72.59,,Barbados,79.19
+Barbados,Central America,79.19,,Belarus,74.79
+Belarus,Europe,74.79,,Belgium,81.63
+Belgium,Europe,81.63,,Belize,74.62
+Belize,Central America,74.62,,Benin,61.77
+Benin,Africa,61.77,,Bhutan,71.78
+Bhutan,Asia,71.78,,Bolivia,71.51
+Bolivia,South America,71.51,,Bosnia and Herzegovina,77.4
+Bosnia and Herzegovina,Europe,77.4,,Botswana,69.59
+Botswana,Africa,69.59,,Brazil,75.88
+Brazil,South America,75.88,,Brunei,75.86
+Brunei,Asia,75.86,,Bulgaria,75.05
+Bulgaria,Europe,75.05,,Burkina Faso,61.58
+Burkina Faso,Africa,61.58,,Burundi,61.58
+Burundi,Africa,61.58,,Cambodia,69.82
+Cambodia,Asia,69.82,,Cameroon,59.29
+Cameroon,Africa,59.29,,Canada,82.43
+Canada,North America,82.43,,Cape Verde,72.98
+Cape Verde,Africa,72.98,,Central African Republic,53.28
+Central African Republic,Africa,53.28,,Chad,54.24
+Chad,Africa,54.24,,Chile,80.18
+Chile,South America,80.18,,China,76.91
+China,Asia,76.91,,Colombia,77.29
+Colombia,South America,77.29,,Comoros,64.32
+Comoros,Africa,64.32,,Costa Rica,80.28
+Congo,Africa,64.57,,Cote d'Ivoire,57.78
+Costa Rica,Central America,80.28,,Croatia,78.49
+Cote d'Ivoire,Africa,57.78,,Cuba,78.8
+Croatia,Europe,78.49,,Cyprus,80.98
+Cuba,Central America,78.8,,Czechia,79.38
+Cyprus,Europe,80.98,,Democratic Republic of Congo,60.68
+Czechia,Europe,79.38,,Denmark,80.9
+Democratic Republic of Congo,Africa,60.68,,Djibouti,67.11
+Denmark,Europe,80.9,,Dominica,75
+Djibouti,Africa,67.11,,Dominican Republic,74.08
+Dominica,Central America,75,,Ecuador,77.01
+Dominican Republic,Central America,74.08,,Egypt,71.99
+Ecuador,South America,77.01,,El Salvador,73.32
+Egypt,Africa,71.99,,Equatorial Guinea,58.74
+El Salvador,Central America,73.32,,Eritrea,66.32
+Equatorial Guinea,Africa,58.74,,Estonia,78.75
+Eritrea,Africa,66.32,,Eswatini,60.19
+Estonia,Europe,78.75,,Ethiopia,66.6
+Eswatini,Africa,60.19,,Fiji,67.44
+Ethiopia,Africa,66.6,,Finland,81.91
+Fiji,Oceania,67.44,,France,82.66
+Finland,Europe,81.91,,Gabon,66.47
+France,Europe,82.66,,Gambia,62.05
+Gabon,Africa,66.47,,Georgia,73.77
+Gambia,Africa,62.05,,Germany,81.33
+Georgia,Europe,73.77,,Ghana,64.07
+Germany,Europe,81.33,,Greece,82.24
+Ghana,Africa,64.07,,Grenada,72.4
+Greece,Europe,82.24,,Guatemala,74.3
+Grenada,Central America,72.4,,Guinea,61.6
+Guatemala,Central America,74.3,,Guinea-Bissau,58.32
+Guinea,Africa,61.6,,Guyana,69.91
+Guinea-Bissau,Africa,58.32,,Haiti,64
+Guyana,South America,69.91,,Honduras,75.27
+Haiti,Central America,64,,Hungary,76.88
+Honduras,Central America,75.27,,Iceland,82.99
+Hungary,Europe,76.88,,India,69.66
+Iceland,Europe,82.99,,Indonesia,71.72
+India,Asia,69.66,,Iran,76.68
+Indonesia,Asia,71.72,,Iraq,70.6
+Iran,Asia,76.68,,Ireland,82.31
+Iraq,Asia,70.6,,Israel,82.97
+Ireland,Europe,82.31,,Italy,83.51
+Israel,Africa,82.97,,Jamaica,74.48
+Italy,Europe,83.51,,Japan,84.63
+Jamaica,Central America,74.48,,Jordan,74.53
+Japan,Asia,84.63,,Kazakhstan,73.6
+Jordan,Asia,74.53,,Kenya,66.7
+Kazakhstan,Asia,73.6,,Kiribati,68.37
+Kenya,Africa,66.7,,Kuwait,75.49
+Kiribati,Oceania,68.37,,Kyrgyzstan,71.45
+Kosovo,Europe,72.11,,Laos,67.92
+Kuwait,Asia,75.49,,Latvia,75.29
+Kyrgyzstan,Asia,71.45,,Lebanon,78.93
+Laos,Asia,67.92,,Lesotho,54.33
+Latvia,Europe,75.29,,Liberia,64.1
+Lebanon,Asia,78.93,,Lithuania,75.93
+Lesotho,Africa,54.33,,Luxembourg,82.25
+Liberia,Africa,64.1,,Madagascar,67.04
+Libya,Africa,72.91,,Malawi,64.26
+Liechtenstein,Europe,82.49,,Malaysia,76.16
+Lithuania,Europe,75.93,,Maldives,78.92
+Luxembourg,Europe,82.25,,Mali,59.31
+Madagascar,Africa,67.04,,Malta,82.53
+Malawi,Africa,64.26,,Marshall Islands,73.7
+Malaysia,Asia,76.16,,Mauritania,64.93
+Maldives,Asia,78.92,,Mauritius,74.99
+Mali,Africa,59.31,,Mexico,75.05
+Malta,Europe,82.53,,Micronesia,67.88
+Marshall Islands,Oceania,73.7,,Moldova,71.9
+Mauritania,Africa,64.93,,Mongolia,69.87
+Mauritius,Africa,74.99,,Montenegro,76.88
+Mexico,Central America,75.05,,Morocco,76.68
+Micronesia,Oceania,67.88,,Mozambique,60.85
+Moldova,Europe,71.9,,Myanmar,67.13
+Mongolia,Asia,69.87,,Namibia,63.71
+Montenegro,Europe,76.88,,Nepal,70.78
+Morocco,Africa,76.68,,Netherlands,82.28
+Mozambique,Africa,60.85,,New Zealand,82.29
+Myanmar,Asia,67.13,,Nicaragua,74.49
+Namibia,Africa,63.71,,Niger,62.42
+Nauru,Oceania,59.96,,Nigeria,54.69
+Nepal,Asia,70.78,,North Macedonia,75.8
+Netherlands,Europe,82.28,,Norway,82.4
+New Zealand,Oceania,82.29,,Oman,77.86
+Nicaragua,Central America,74.49,,Pakistan,67.27
+Niger,Africa,62.42,,Panama,78.51
+Nigeria,Africa,54.69,,Papua New Guinea,64.5
+North Korea,Asia,72.27,,Paraguay,74.25
+North Macedonia,Europe,75.8,,Peru,76.74
+Norway,Europe,82.4,,Philippines,71.23
+Oman,Asia,77.86,,Poland,78.73
+Pakistan,Asia,67.27,,Portugal,82.05
+Palau,Oceania,73.7,,Qatar,80.23
+Palestine,Asia,74.05,,Republic of the Congo,64.57
+Panama,Central America,78.51,,Romania,76.05
+Papua New Guinea,Oceania,64.5,,Russia,72.58
+Paraguay,South America,74.25,,Rwanda,69.02
+Peru,South America,76.74,,Saint Lucia,76.2
+Philippines,Asia,71.23,,Saint Vincent and the Grenadines,72.53
+Poland,Europe,78.73,,Samoa,73.32
+Portugal,Europe,82.05,,Sao Tome and Principe,70.39
+Qatar,Asia,80.23,,Saudi Arabia,75.13
+Romania,Europe,76.05,,Senegal,67.94
+Russia,Asia,72.58,,Serbia,76
+Rwanda,Africa,69.02,,Seychelles,73.4
+Saint Kitts and Nevis,Central America,76.23,,Sierra Leone,54.7
+Saint Lucia,Central America,76.2,,Singapore,83.62
+Saint Vincent and the Grenadines,Central America,72.53,,Slovakia,77.54
+Samoa,Oceania,73.32,,Slovenia,81.32
+Sao Tome and Principe,Africa,70.39,,Solomon Islands,73
+Saudi Arabia,Asia,75.13,,South Africa,64.13
+Senegal,Africa,67.94,,South Korea,83.03
+Serbia,Europe,76,,Spain,83.57
+Seychelles,Africa,73.4,,Sri Lanka,76.98
+Sierra Leone,Africa,54.7,,Sudan,65.31
+Singapore,Asia,83.62,,Suriname,71.68
+Slovakia,Europe,77.54,,Sweden,82.8
+Slovenia,Europe,81.32,,Switzerland,83.78
+Solomon Islands,Oceania,73,,Tajikistan,71.1
+Somalia,Africa,57.4,,Tanzania,65.46
+South Africa,Africa,64.13,,Thailand,77.15
+South Korea,Asia,83.03,,Timor,69.5
+South Sudan,Africa,57.85,,Togo,61.04
+Spain,Europe,83.57,,Tonga,70.91
+Sri Lanka,Asia,76.98,,Trinidad and Tobago,73.51
+St. Kitts-Nevis-Anguilla,Central America,76.35,,Tunisia,76.7
+Sudan,Africa,65.31,,Turkey,77.69
+Suriname,South America,71.68,,Turkmenistan,68.19
+Sweden,Europe,82.8,,Uganda,63.37
+Switzerland,Europe,83.78,,Ukraine,72.07
+Syria,Asia,72.7,,United Arab Emirates,77.97
+Tajikistan,Asia,71.1,,United Kingdom,81.32
+Tanzania,Africa,65.46,,United States,78.86
+Thailand,Asia,77.15,,Uruguay,77.91
+Timor,Asia,69.5,,Uzbekistan,71.73
+Togo,Africa,61.04,,Vanuatu,70.47
+Tonga,Oceania,70.91,,Venezuela,72.06
+Trinidad and Tobago,Central America,73.51,,Vietnam,75.4
+Tunisia,Africa,76.7,,Zambia,63.89
+Turkey,Europe,77.69,,Zimbabwe,61.49
+Turkmenistan,Asia,68.19,,,
+Tuvalu,Oceania,67.57,,,
+Uganda,Africa,63.37,,,
+Ukraine,Europe,72.07,,,
+United Arab Emirates,Asia,77.97,,,
+United Kingdom,Europe,81.32,,,
+United States,North America,78.86,,,
+Uruguay,South America,77.91,,,
+Uzbekistan,Asia,71.73,,,
+Vanuatu,Oceania,70.47,,,
+Venezuela,South America,72.06,,,
+Vietnam,Asia,75.4,,,
+Yemen,Asia,66.13,,,
+Zambia,Africa,63.89,,,
+Zimbabwe,Africa,61.49,,,
